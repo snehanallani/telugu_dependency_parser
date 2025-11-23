@@ -1,0 +1,1577 @@
+<document id="">
+<head>
+
+</head>
+<Sentence id='101'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	హస్తినాపురంలో	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo' name='హస్తినాపురంలో' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='nmod:NP3'>
+2.1	జైన	N_NNP	<fs af='జైన,n,fn,sg,3,o,టి,ti' name='జైన' posn='20'>
+2.2	మతంలోని	N_NN	<fs af='మతం,n,fn,sg,3,o,లోని,loni' name='మతంలోని' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='nmod:NP4'>
+3.1	24	QT_QTC	<fs af='24,num,,,,,,' name='24' posn='40'>
+3.2	మంది	RP_CL	<fs af='మంది,avy,,,,,,' name='మంది' posn='50'>
+3.3	తీర్ధంకరులలో	N_NN	<fs af='తీర్ధంకరులు,n,any,pl,3,o,లో,lo' name='తీర్ధంకరులలో' posn='60'>
+	))
+4	((	NP	<fs name='NP4' drel='nmod:NP5'>
+4.1	ఆందరికంటే	RP_INTF	<fs af='ఆందరికంటే,avy,,,,,,' name='ఆందరికంటే' posn='70'>
+4.2	మొదటి	QT_QTO	<fs af='మొదటి,num,,,,,,' name='మొదటి' posn='80'>
+4.3	తీర్థంకరుడు	N_NN	<fs af='తీర్థంకరుడు,n,m,sg,3,d,0,0' name='తీర్థంకరుడు' posn='90'>
+	))
+5	((	NP	<fs af=',,,,,,,' name='NP5' drel='k1:VGF'>
+5.1	శ్రీ	N_NN	<fs af='శ్రీ,n,any,sg,3,d,0,0' name='శ్రీ' posn='100'>
+5.2	ఆదీనాథ్	N_NNP	<fs af='ఆదీనాథ్,n,m,sg,3,d,0,0' name='ఆదీనాథ్' posn='110'>
+5.3	ప్రభువు	N_NN	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='120'>
+	))
+6	((	NP	<fs name='NP6' drel='r6:NP7'>
+6.1	తన	PR_PRF	<fs af='తాను,pn,any,sg,3,o,టి,ti' name='తన' posn='130'>
+	))
+7	((	NP	<fs name='NP7' drel='k7t:VGNF'>
+7.1	400	QT_QTC	<fs af='400,num,,,,,,' name='400' posn='140'>
+7.2	రోజుల	N_NN	<fs af='రోజు,n,fn,pl,3,o,టి,ti' name='రోజుల' posn='150'>
+7.3	వ్రతం	N_NN	<fs af='వ్రతం,n,fn,sg,3,d,0,0' name='వ్రతం' posn='160'>
+7.4	తరువాత	N_NST	<fs af='తరువాత,nst,,,,d,0,0' name='తరువాత' posn='170'>
+	))
+8	((	NP	<fs name='NP8' drel='r6:NP9'>
+8.1	శ్రేయాంషకుమార్	N_NNP	<fs af='శ్రేయాంషకుమార్,n,m,sg,3,d,0,0' name='శ్రేయాంషకుమార్' posn='180'>
+	))
+9	((	NP	<fs name='NP9' drel='k3:VGNF'>
+9.1	చేతులతో	N_NN	<fs af='చేయి,n,fn,pl,3,o,తో,wo' name='చేతులతో' posn='190'>
+	))
+10	((	NP	<fs name='NP10' drel='k2:VGNF'>
+10.1	చెరుకు	N_NN	<fs af='చెరుకు,n,fn,sg,3,d,0,0' name='చెరుకు' posn='200'>
+10.2	రసం	N_NN	<fs af='రసం,n,fn,sg,3,d,0,0' name='రసం' posn='210'>
+	))
+11	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+11.1	తాగి	V_VM_VNF	<fs af='తాగు,v,any,any,any,,ఇ,i' name='తాగి' posn='220'>
+	))
+12	((	NP	<fs name='NP11' drel='r6-k2:NP12'>
+12.1	తన	PR_PRF	<fs af='తన,pn,any,sg,3,o,టి,ti' name='తన2' posn='230'>
+	))
+13	((	NP	<fs name='NP12' drel='k2:VGF'>
+13.1	వ్రతాన్ని	N_NN	<fs af='వ్రతం,n,fn,sg,3,o,ను,nu' name='వ్రతాన్ని' posn='240'>
+	))
+14	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+14.1	ముగించాడు	V_VM_VF	<fs af='ముగించు,v,m,sg,3,,ఆ,A' name='ముగించాడు' posn='250'>
+	))
+15	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+15.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='260'>
+	))
+</Sentence>
+
+<Sentence id='102'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	హస్తినాపురంలోనే	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo_e' name='హస్తినాపురంలోనే' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='ccof:CCP'>
+2.1	శ్రీ	N_NN	<fs af='శ్రీ,n,any,sg,3,d,0,0' name='శ్రీ' posn='20'>
+2.2	శాంతినాథ్	N_NNP	<fs af='శాంతినాథ్,n,m,sg,3,d,0,0' name='శాంతినాథ్' posn='30'>
+2.3	ప్రభువు	N_NN	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='40'>
+2.4	,	RD_PUNC	<fs af='&comma;,punc,,,,,,' name=',' posn='50'>
+	))
+3	((	NP	<fs name='NP3' drel='ccof:CCP'>
+3.1	కుంతన్	N_NNP	<fs af='కుంతన్,n,m,sg,3,d,0,0' name='కుంతన్' posn='60'>
+3.2	నాథ్	N_NNP	<fs af='నాథ్,n,m,sg,3,d,0,0' name='నాథ్' posn='70'>
+3.3	ప్రభువు	N_NN	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు2' posn='80'>
+	))
+4	((	CCP	<fs name='CCP' drel='r6-k1:NP5'>
+4.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='90'>
+	))
+5	((	NP	<fs name='NP4' drel='ccof:CCP'>
+5.1	శ్రీ	N_NN	<fs af='శ్రీ,n,any,sg,3,d,0,0' name='శ్రీ2' posn='100'>
+5.2	అరహనాథ	N_NNP	<fs af='అరహనాథ,n,m,sg,3,d,0,0' name='అరహనాథ' posn='110'>
+5.3	ప్రభువులకు	N_NN	<fs af='ప్రభువు,n,m,pl,3,o,కి,ki' name='ప్రభువులకు' posn='120'>
+	))
+6	((	NP	<fs name='NP5' drel='k1:VGF'>
+6.1	12	QT_QTC	<fs af='12,num,,,,,,' name='12' posn='130'>
+6.2	పెళ్ళిళ్ళు	N_NN	<fs af='పెళ్ళి,n,fn,pl,3,d,0,0' name='పెళ్ళిళ్ళు' posn='140'>
+	))
+7	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+7.1	జరిగాయి	V_VM_VF	<fs af='జరుగు,v,n,pl,3,,ఆ,A' name='జరిగాయి' posn='150'>
+	))
+8	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+8.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='160'>
+	))
+</Sentence>
+
+<Sentence id='103'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='10'>
+1.2	మల్లినాథ	N_NNP	<fs af='మల్లినాథ,n,m,sg,3,d,0,0' name='మల్లినాథ' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='pof:VGF'>
+2.1	సమారోహణం	N_NN	<fs af='సమారోహణం,n,fn,sg,3,d,0,0' name='సమారోహణం' posn='30'>
+2.2	కూడా	RP_RPD	<fs af='కూడా,avy,,,,,0,0_avy' name='కూడా' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGF'>
+3.1	హస్తినాపురంలోనే	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo_e' name='హస్తినాపురంలోనే' posn='50'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+4.1	జరిగింది	V_VM_VF	<fs af='జరుగు,v,fn,sg,3,,ఆ,A' name='జరిగింది' posn='60'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='104'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	హస్తినాపురంలోని	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లోని,loni' name='హస్తినాపురంలోని' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='ccof:CCP'>
+2.1	ముని	N_NNP	<fs af='ముని,n,m,sg,3,d,0,0' name='ముని' posn='20'>
+2.2	సువ్రతనాథ్	N_NNP	<fs af='సువ్రతనాథ్,n,m,sg,3,d,0,0' name='సువ్రతనాథ్' posn='30'>
+2.3	స్వామి	N_NN	<fs af='స్వామి,n,m,sg,3,d,0,0' name='స్వామి' posn='40'>
+2.4	,	RD_PUNC	<fs af='&comma;,punc,,,,,,' name=',' posn='50'>
+	))
+3	((	NP	<fs name='NP3' drel='ccof:CCP'>
+3.1	భగవానుడు	N_NN	<fs af='భగవానుడు,n,m,sg,3,d,0,0' name='భగవానుడు' posn='60'>
+3.2	పార్శ్వనాథుడు	N_NNP	<fs af='పార్శ్వనాథుడు,n,m,sg,3,d,0,0' name='పార్శ్వనాథుడు' posn='70'>
+	))
+4	((	CCP	<fs name='CCP' drel='k1:VGF'>
+4.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='80'>
+	))
+5	((	NP	<fs name='NP4' drel='ccof:CCP'>
+5.1	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='90'>
+5.2	మహావీర్	N_NN	<fs af='మహావీర్,n,m,sg,3,d,0,0' name='మహావీర్' posn='100'>
+5.3	స్వామి	N_NN	<fs af='స్వామి,n,m,sg,3,d,0,0' name='స్వామి2' posn='110'>
+	))
+6	((	NP	<fs name='NP5' drel='r6:NP6'>
+6.1	తమ	PR_PRF	<fs af='తాము,pn,any,sg,2,o,టి,ti' name='తమ' posn='120'>
+	))
+7	((	NP	<fs name='NP6' drel='r6:NP7'>
+7.1	వాళ్ళ	PR_PRP	<fs af='వాళ్ళు,pn,any,pl,3,o,టి,ti' name='వాళ్ళ' posn='130'>
+	))
+8	((	NP	<fs name='NP7' drel='k2:VGF'>
+8.1	దివ్య	N_NN	<fs af='దివ్య,n,fn,sg,3,o,టి,ti' name='దివ్య' posn='140'>
+8.2	వాక్కులను	N_NN	<fs af='వాక్కు,n,fn,pl,3,o,ని,ni' name='వాక్కులను' posn='150'>
+	))
+9	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+9.1	ప్రవచించినారు	V_VM_VF	<fs af='ప్రవచించు,v,fm,pl,3,,ఆ,A' name='ప్రవచించినారు' posn='160'>
+	))
+10	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+10.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='170'>
+	))
+</Sentence>
+
+<Sentence id='105'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:NULL__VGF'>
+1.1	హస్తినాపురంలో	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo' name='హస్తినాపురంలో' posn='10'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='ccof:CCP'>
+2.1	ప్రక్షాలన	N_NN	<fs af='ప్రక్షాలనం,n,fn,sg,3,o,టి,ti' name='ప్రక్షాలన' posn='20'>
+	))
+3	((	CCP	<fs name='CCP' drel='k1:NULL__VGF'>
+3.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='30'>
+	))
+4	((	NP	<fs af=',,,,,,,' name='NP3' drel='ccof:CCP'>
+4.1	పూజార్చన	N_NN	<fs af='పూజార్చన,n,fn,sg,3,d,0,0' name='పూజార్చన' posn='40'>
+4.2	సమయం	N_NN	<fs af='సమయం,n,fn,sg,3,d,0,0' name='సమయం' posn='50'>
+	))
+5	((	NP	<fs af=',,,,,,,' name='NP4' drel='rsp:NP5'>
+5.1	ఉదయం	N_NN	<fs af='ఉదయం,n,fn,sg,3,d,0,0' name='ఉదయం' posn='60'>
+5.2	ఎనిమిది	QT_QTC	<fs af='ఎనిమిది,num,,,,,,' name='ఎనిమిది' posn='70'>
+5.3	గంటల	N_NN	<fs af='గంట,n,fn,pl,3,o,టి,ti' name='గంటల' posn='80'>
+5.4	నుండి	PSP	<fs af='నుండి,psp,,,,,,' name='నుండి' posn='90'>
+	))
+6	((	NP	<fs af=',,,,,,,' name='NP5' drel='k7t:NULL__VGF'>
+6.1	సాయంత్రం	N_NN	<fs af='సాయంత్రం,n,fn,sg,3,d,0,0' name='సాయంత్రం'>
+6.2	ఐదు	QT_QTC	<fs af='ఐదు,num,,,,,,' name='ఐదు' posn='110'>
+6.3	గంటల	N_NN	<fs af='గంట,n,fn,pl,3,o,టి,ti' name='గంటల2' posn='120'>
+6.4	వరకు	PSP	<fs af='వరకు,psp,,,,,,' name='వరకు' posn='130'>
+	))
+7	((	NULL__VGF	<fs af=',,,,,,,' troot='ఉంటుంది' mtype='gap' name='NULL__VGF' dmrel='ccof:CCP2'>
+7.1	NULL	NULL	<fs af=',,,,,,,' name='NULL'>
+	))
+8	((	CCP	<fs af=',,,,,,,' name='CCP2'>
+8.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు2' posn='140'>
+	))
+9	((	NP	<fs af=',,,,,,,' name='NP6' drel='k7p:VGF'>
+9.1	దిగంబర	N_NN	<fs af='దిగంబర,n,fn,sg,3,o,టి,ti' name='దిగంబర' posn='150'>
+9.2	జైనదేవాలయంలో	N_NN	<fs af='జైనదేవాలయం,n,fn,sg,3,o,లో,lo' name='జైనదేవాలయంలో' posn='160'>
+	))
+10	((	VGNF	<fs name='VGNF' drel='nmod:NP7'>
+10.1	పూజచేసే	V_VM_VNF	<fs af='పూజచెయ్యి,v,any,any,any,,ఏ,e' name='పూజచేసే' posn='170'>
+	))
+11	((	NP	<fs name='NP7' drel='k1:VGF'>
+11.1	సమయం	N_NN	<fs af='సమయం,n,fn,sg,3,d,0,0' name='సమయం2' posn='180'>
+	))
+12	((	NP	<fs name='NP8' drel='k7t:VGF'>
+12.1	ఉదయం	N_NN	<fs af='ఉదయం,n,fn,sg,3,d,0,0' name='ఉదయం2' posn='190'>
+12.2	ఏడు	QT_QTC	<fs af='ఏడు,num,,,,,,' name='ఏడు' posn='200'>
+12.3	గంటలకు	N_NN	<fs af='గంట,n,fn,pl,3,o,కి,ki' name='గంటలకు' posn='210'>
+	))
+13	((	VGF	<fs af=',,,,,,,' name='VGF' drel='ccof:CCP2' stype='declarative' voicetype='active'>
+13.1	ప్రారంభమవుతుంది	V_VM_VF	<fs af='ప్రారంభమవ్వు,v,fn,sg,3,,తా,wA' name='ప్రారంభమవుతుంది' posn='220'>
+	))
+14	((	BLK	<fs name='BLK' drel='rsym:CCP2'>
+14.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='230'>
+	))
+</Sentence>
+
+<Sentence id='106'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	హస్తినాపురంలో	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo' name='హస్తినాపురంలో' posn='10'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='k1:VGF'>
+2.1	ఆదినాథ్	N_NNP	<fs af='ఆదినాథ్,n,m,sg,3,d,0,0' name='ఆదినాథ్' posn='20'>
+2.2	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='30'>
+	))
+3	((	NP	<fs af=',,,,,,,' name='NP3' drel='pof:VGNN'>
+3.1	దీక్ష	N_NN	<fs af='దీక్ష,n,fn,sg,3,d,0,0' name='దీక్ష' posn='40'>
+	))
+4	((	VGNN	<fs af=',,,,,,,' name='VGNN' drel='rt:VGF'>
+4.1	తీసుకోవడానికి	V_VM_VNG	<fs af='తీసుకో,v,any,any,any,o,అడం_కి,adAM_ki' name='తీసుకోవడానికి' posn='50'>
+	))
+5	((	NP	<fs af=',,,,,,,' name='NP4' drel='k7t:VGF'>
+5.1	400	QT_QTC	<fs af='400,num,,,,,,' name='400' posn='60'>
+5.2	రోజుల	N_NN	<fs af='రోజు,n,fn,pl,3,o,టి,ti' name='రోజుల' posn='70'>
+5.3	తరువాత	N_NST	<fs af='తరువాత,nst,,,,d,0,0' name='తరువాత' posn='80'>
+	))
+6	((	NP	<fs af=',,,,,,,' name='NP5' drel='k7t:VGF'>
+6.1	వైశాఖ	N_NNP	<fs af='వైశాఖం,n,fn,sg,3,o,టి,ti' name='వైశాఖ' posn='90'>
+6.2	శుక్ల	N_NN	<fs af='శుక్ల,n,fn,sg,3,o,టి,ti' name='శుక్ల' posn='100'>
+6.3	తృతీయ	QT_QTO	<fs af='తృతీయ,num,,,,,,' name='తృతీయ' posn='110'>
+6.4	రోజున	N_NN	<fs af='రోజు,n,fn,sg,3,o,న,na' name='రోజున' posn='120'>
+	))
+7	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+7.1	వచ్చాడు	V_VM_VF	<fs af='వచ్చు,v,m,sg,3,,ఆ,A' name='వచ్చాడు' posn='130'>
+	))
+8	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF'>
+8.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='140'>
+	))
+</Sentence>
+
+<Sentence id='107'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	ప్రజలు	N_NN	<fs af='ప్రజలు,n,fn,pl,3,d,0,0' name='ప్రజలు' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k5:VGF'>
+2.1	దూర	N_NST	<fs af='దూరం,nst,,,,,,' name='దూర' posn='20'>
+2.2	-	RD_PUNC	<fs af='&minus;,punc,,,,,,' name='-' posn='30'>
+2.3	దూరాల	N_NST	<fs af='దూరం,nst,,,,,,' name='దూరాల' posn='40'>
+2.4	నుండి	PSP	<fs af='నుండి,psp,,,,,,' name='నుండి' posn='50'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	వారి	PR_PRP	<fs af='వారు,pn,fm,pl,3,o,టి,ti' name='వారి' posn='60'>
+	))
+4	((	NP	<fs name='NP4' drel='rt:VGF'>
+4.1	దర్శనానికి	N_NN	<fs af='దర్శనం,n,fn,sg,3,o,కి,ki' name='దర్శనానికి' posn='70'>
+	))
+5	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='passive'>
+5.1	వెళ్ళేవారు	V_VM_VF	<fs af='వెళ్ళు,v,fm,pl,3,,ఏ_వారు,e_vAru' name='వెళ్ళేవారు' posn='80'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='90'>
+	))
+</Sentence>
+
+<Sentence id='108'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGNF'>
+1.1	రాజకుమారుడు	N_NN	<fs af='రాజకుమారుడు,n,m,sg,3,d,0,0' name='రాజకుమారుడు' posn='10'>
+1.2	శ్రేయంషకుమారునికి	N_NNP	<fs af='శ్రేయంషకుమారుడు,n,m,sg,3,o,కి,ki' name='శ్రేయంషకుమారునికి' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k7t:VGNF' coref='NULL__NP'>
+2.1	ఎప్పుడు	PR_PRQ	<fs af='ఎప్పుడు,pn,,,,d,0,0' name='ఎప్పుడు' posn='30'>
+2.2	అయితే	RP_RPD	<fs af='అయితే,avy,,,,,,' name='అయితే' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='k7:VGNF'>
+3.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='50'>
+3.2	విషయం	N_NN	<fs af='విషయం,n,fn,sg,3,d,0,0' name='విషయం' posn='60'>
+3.3	గురించి	PSP	<fs af='గురించి,psp,,,,,,' name='గురించి' posn='70'>
+	))
+4	((	NP	<fs name='NP4' drel='pof:VGNF'>
+4.1	జ్ఞానోదయం	N_NN	<fs af='జ్ఞానోదయం,n,fn,sg,3,d,0,0' name='జ్ఞానోదయం' posn='80'>
+	))
+5	((	VGNF	<fs af=',,,,,,,' name='VGNF' drel='nmod__relc:NULL__NP'>
+5.1	కల్గిందో	V_VM_VNF	<fs af='కల్గు,v,fn,sg,3,,ఆ,A_o' name='కల్గిందో' posn='90'>
+	))
+6	((	NULL__NP	<fs af=',,,,,,,' troot='అప్పుడు' mtype='gap' name='NULL__NP' dmrel='k7t:VGF'>
+6.1	NULL	PR_PRP	<fs af=',,,,,,,' name='NULL'>
+	))
+7	((	NP	<fs af=',,,,,,,' name='NP5' drel='k1:VGF'>
+7.1	అతనికి	PR_PRP	<fs af='అతను,pn,m,sg,3,o,కి,ki' name='అతనికి' posn='100'>
+	))
+8	((	NP	<fs name='NP6' drel='r6:NP7'>
+8.1	తమ	PR_PRF	<fs af='తాము,pn,any,sg,2,o,టి,ti' name='తమ' posn='110'>
+	))
+9	((	NP	<fs name='NP7' drel='rt:VGNF2'>
+9.1	పూర్వీకులకు	N_NN	<fs af='పూర్వీకులు,n,any,pl,3,o,కి,ki' name='పూర్వీకులకు' posn='120'>
+	))
+10	((	NP	<fs name='NP8' drel='k2:VGNF2'>
+10.1	అన్న	N_NN	<fs af='అన్నం,n,fn,sg,3,o,టి,ti' name='అన్న' posn='130'>
+10.2	-	RD_PUNC	<fs af='&minus;,punc,,,,,,' name='-' posn='140'>
+10.3	పానీయాలు	N_NN	<fs af='పానీయం,n,fn,pl,3,d,0,0' name='పానీయాలు' posn='150'>
+	))
+11	((	NP	<fs name='NP9' drel='pof:VGNF2'>
+11.1	త్యాగం	N_NN	<fs af='త్యాగం,n,fn,sg,3,d,0,0' name='త్యాగం' posn='160'>
+	))
+12	((	VGNF	<fs name='VGNF2' drel='nmod:NP10'>
+12.1	చేసే	V_VM_VNF	<fs af='చెయ్యి,v,any,any,any,,ఏ,e' name='చేసే' posn='170'>
+	))
+13	((	NP	<fs name='NP10' drel='k2:VGF'>
+13.1	ఆచారం	N_NN	<fs af='ఆచారం,n,fn,sg,3,d,0,0' name='ఆచారం' posn='180'>
+	))
+14	((	NP	<fs name='NP11' drel='pof:VGF'>
+14.1	గుర్తుకు	N_NN	<fs af='గుర్తు,n,fn,sg,3,o,కి,ki' name='గుర్తుకు' posn='190'>
+	))
+15	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+15.1	వచ్చింది	V_VM_VF	<fs af='వచ్చు,v,fn,sg,3,,ఆ,A' name='వచ్చింది' posn='200'>
+	))
+16	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+16.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='210'>
+	))
+</Sentence>
+
+<Sentence id='109'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	రాజకుమారుడు	N_NN	<fs af='రాజకుమారుడు,n,m,sg,3,d,0,0' name='రాజకుమారుడు' posn='10'>
+1.2	శ్రేయంషకుమారుడు	N_NNP	<fs af='శ్రేయంషకుమారుడు,n,m,sg,3,d,0,0' name='శ్రేయంషకుమారుడు' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k4:VGF'>
+2.1	ఆదినాథ్	N_NNP	<fs af='ఆదినాథ్,n,m,sg,3,d,0,0' name='ఆదినాథ్' posn='30'>
+2.2	ప్రభువుతో	N_NN	<fs af='ప్రభువు,n,m,sg,3,o,తో,wo' name='ప్రభువుతో' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='nmod:NP4'>
+3.1	వ్రత	N_NN	<fs af='వ్రతం,n,fn,sg,3,o,టి,ti' name='వ్రత' posn='50'>
+	))
+4	((	NP	<fs name='NP4' drel='rt:VGF'>
+4.1	సమాప్తికి	N_NN	<fs af='సమాప్తి,n,fn,sg,3,o,కి,ki' name='సమాప్తికి' posn='60'>
+	))
+5	((	NP	<fs name='NP5' drel='k2:VGNF'>
+5.1	చెరకురసం	N_NN	<fs af='చెరకురసం,n,fn,sg,3,d,0,0' name='చెరకురసం' posn='70'>
+	))
+6	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+6.1	తీసుకోవలసిందిగా	V_VM_VNF	<fs af='తీసుకో,v,any,any,any,,అ_వలయు,a_valayu' name='తీసుకోవలసిందిగా' posn='80'>
+	))
+7	((	VGF	<fs af=',,,,,,,' name='VGF' stype='imperative' voicetype='active'>
+7.1	ప్రార్థించాడు	V_VM_VF	<fs af='ప్రార్థించు,v,m,sg,3,,ఆ,A' name='ప్రార్థించాడు' posn='90'>
+	))
+8	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+8.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='100'>
+	))
+</Sentence>
+
+<Sentence id='110'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k2:VGF'>
+1.1	దీనిని	PR_PRP	<fs af='ఇది,pn,fn,sg,3,o,ని,ni' name='దీనిని' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	వారు	PR_PRP	<fs af='వారు,pn,fm,sg,3h,d,0,0' name='వారు' posn='20'>
+	))
+3	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+3.1	స్వీకరించారు	V_VM_VF	<fs af='స్వీకరించు,v,fm,any,any,,ఆ,A' name='స్వీకరించారు' posn='30'>
+	))
+4	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+4.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='40'>
+	))
+</Sentence>
+
+<Sentence id='111'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7t:VGF'>
+1.1	తరువాత	N_NST	<fs af='తరువాత,nst,,,,d,0,0' name='తరువాత' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='20'>
+2.2	రోజు	N_NN	<fs af='రోజు,n,fn,sg,3,d,0,0' name='రోజు' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k1s:VGF'>
+3.1	అక్షయ	N_NNP	<fs af='అక్షయ,n,fn,sg,3,d,0,0' name='అక్షయ' posn='40'>
+3.2	తృతీయ	N_NN	<fs af='తృతీయ,n,fn,sg,3,d,0,0' name='తృతీయ' posn='50'>
+3.3	అని	CC_CCS_UT	<fs af='అని,avy,,,,,0,0_avy' name='అని' posn='60'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='passive' stype='declarative'>
+4.1	పిలువబడుతుంది	V_VM_VF	<fs af='పిలువబడు,v,fn,sg,3,,తా,wA' name='పిలువబడుతుంది' posn='70'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='80'>
+	))
+</Sentence>
+
+<Sentence id='112'>
+1	((	NP	<fs name='NP' drel='k7p:VGF'>
+1.1	హస్తినాపురంలో	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo' name='హస్తినాపురంలో' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='20'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	అతని	PR_PRP	<fs af='అతను,pn,m,sg,3,o,టి,ti' name='అతని' posn='30'>
+	))
+4	((	NP	<fs name='NP4' drel='k3:VGF'>
+4.1	ప్రవచనాలతో	N_NN	<fs af='ప్రవచనం,n,fn,pl,3,o,తో,wo' name='ప్రవచనాలతో' posn='40'>
+	))
+5	((	NP	<fs name='NP5' drel='k2:VGF'>
+5.1	ఆరుగురు	QT_QTC	<fs af='ఆరుగురు,num,,,,,,' name='ఆరుగురు' posn='50'>
+5.2	పెద్ద	JJ	<fs af='పెద్ద,adj,,,,d,0,0' deri_cat='n' name='పెద్ద' posn='60'>
+5.3	రాజులను	N_NN	<fs af='రాజు,n,m,pl,3,o,ని,ni' name='రాజులను' posn='70'>
+	))
+6	((	NP	<fs name='NP6' drel='nmod:NP7'>
+6.1	జైన	N_NNP	<fs af='జైన్,n,fn,sg,3,o,టి,ti' name='జైన' posn='80'>
+6.2	మత	N_NN	<fs af='మతం,n,fn,sg,3,o,టి,ti' name='మత' posn='90'>
+	))
+7	((	NP	<fs name='NP7' drel='k2s:VGF'>
+7.1	అనుయాయులుగా	N_NN	<fs af='అనుయాయులు,n,any,pl,3,o,గా,gA' name='అనుయాయులుగా' posn='100'>
+	))
+8	((	NP	<fs name='NP8' drel='pof:VGF'>
+8.1	తయారు	N_NN	<fs af='తయారు,n,fn,sg,3,d,0,0' name='తయారు' posn='110'>
+	))
+9	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+9.1	చేశాడు	V_VM_VF	<fs af='చెయ్యి,v,m,sg,3,,ఆ,A' name='చేశాడు' posn='120'>
+	))
+10	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+10.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='130'>
+	))
+</Sentence>
+
+<Sentence id='113'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='nmod:NP2'>
+1.1	24	QT_QTC	<fs af='24,num,,,,,,' name='24' posn='10'>
+1.2	మంది	RP_CL	<fs af='మంది,avy,,,,,,' name='మంది' posn='20'>
+1.3	తీర్థంకరులలో	N_NN	<fs af='తీర్థంకరులు,n,any,pl,3,o,లో,lo' name='తీర్థంకరులలో' posn='30'>
+	))
+2	((	NP	<fs name='NP2' drel='ccof:CCP'>
+2.1	ఇరవైవ	QT_QTO	<fs af='ఇరవై,,,,,o,వ,va' comment='NeedClarification' name='ఇరవైవ' posn='40'>
+2.2	తీర్థ౦కరుడు	N_NN	<fs af='తీర్థ౦కరుడు,n,m,sg,3,d,0,0' name='తీర్థ౦కరుడు' posn='50'>
+2.3	శ్రీ	N_NN	<fs af='శ్రీ,n,m,sg,3,d,0,0' name='శ్రీ' posn='60'>
+2.4	ముని	N_NNP	<fs af='ముని,n,m,sg,3,d,0,0' name='ముని' posn='70'>
+2.5	సువ్రత	N_NNP	<fs af='సువ్రత,n,m,sg,3,d,0,0' name='సువ్రత' posn='80'>
+2.6	స్వామి	N_NN	<fs af='స్వామి,n,m,sg,3,d,0,0' name='స్వామి' posn='90'>
+2.7	,	RD_PUNC	<fs af='&comma;,punc,,,,,,' name=',' posn='100'>
+	))
+3	((	NP	<fs name='NP3' drel='ccof:CCP'>
+3.1	ఇరవై	QT_QTC	<fs af='ఇరవై,num,,,,,,' name='ఇరవై' posn='110'>
+3.2	మూడవ	QT_QTO	<fs af='మూడవ,num,,,,,,' name='మూడవ' posn='120'>
+3.3	తీర్థ౦కరుడు	N_NN	<fs af='తీర్థ౦కరుడు,n,m,sg,3,d,0,0' name='తీర్థ౦కరుడు2' posn='130'>
+3.4	పార్శ్వనాథుడు	N_NNP	<fs af='పార్శ్వనాథుడు,n,m,sg,3,d,0,0' name='పార్శ్వనాథుడు' posn='140'>
+3.5	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='150'>
+	))
+4	((	CCP	<fs name='CCP' drel='k1:VGF'>
+4.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,,' name='మరియు' posn='160'>
+	))
+5	((	NP	<fs name='NP4' drel='ccof:CCP'>
+5.1	ఆఖరి	JJ	<fs af='ఆఖరి,adj,,,,d,0,0' comment='LooksLikeNoun' name='ఆఖరి' posn='170'>
+5.2	తీర్థ౦కరుడు	N_NN	<fs af='తీర్థ౦కరుడు,n,m,sg,3,d,0,0' name='తీర్థ౦కరుడు3' posn='180'>
+5.3	శ్రీమహావీర్	N_NNP	<fs af='శ్రీమహావీర్,n,m,sg,3,d,0,0' name='శ్రీమహావీర్' posn='190'>
+5.4	స్వామి	N_NN	<fs af='స్వామి,n,m,sg,3,d,0,0' name='స్వామి2' posn='200'>
+5.5	కూడా	RP_RPD	<fs af='కూడా,avy,,,,,,' name='కూడా' posn='210'>
+	))
+6	((	NP	<fs name='NP5' drel='k2p:VGF'>
+6.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='220'>
+6.2	స్థలాన్ని	N_NN	<fs af='స్థలం,n,fn,sg,3,o,ని,ni' name='స్థలాన్ని' posn='230'>
+	))
+7	((	NP	<fs name='NP6' drel='r6:NP7'>
+7.1	వారి	PR_PRP	<fs af='వారు,n,any,sg,3h,o,టి,ti' name='వారి' posn='240'>
+	))
+8	((	NP	<fs name='NP7' drel='k3:VGF'>
+8.1	పాదాలతో	N_NN	<fs af='పాదం,n,fn,pl,3,o,తో,wO' name='పాదాలతో' posn='250'>
+	))
+9	((	NP	<fs name='NP8' drel='pof:VGF'>
+9.1	పావనం	N_NN	<fs af='పావనం,n,fn,sg,3,d,0,0' name='పావనం' posn='260'>
+	))
+10	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+10.1	చేశారు	V_VM_VF	<fs af='చెయ్యి,n,any,sg,3,,ఆ,A' name='చేశారు' posn='270'>
+	))
+11	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+11.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='280'>
+	))
+</Sentence>
+
+<Sentence id='114'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	భారతదేశంలో	N_NNP	<fs af='భారతదేశం,n,fn,sg,3,o,లో,lo' name='భారతదేశంలో' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	మొత్తం	QT_QTF	<fs af='మొత్తం,avy,,,,,,' name='మొత్తం' posn='20'>
+2.2	12	QT_QTC	<fs af='12,num,,,,,,' name='12' posn='30'>
+2.3	మంది	RP_CL	<fs af='మంది,avy,,,,,,' name='మంది' posn='40'>
+2.4	చక్రవర్తులు	N_NN	<fs af='చక్రవర్తి,n,m,pl,3,d,0,0' name='చక్రవర్తులు' posn='50'>
+	))
+3	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+3.1	ఉన్నారు	V_VM_VF	<fs af='ఉండు,v,fm,pl,3,,ఆ,A' name='ఉన్నారు' posn='60'>
+	))
+4	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+4.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='115'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:NULL__VGF'>
+1.1	భారతదేశంలో	N_NN	<fs af='భారతదేశం,n,fn,sg,3,o,లో,lo' name='భారతదేశంలో' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k5:NULL__VGF'>
+2.1	మొత్తం	QT_QTF	<fs af='మొత్తం,n,fn,sg,3,d,0,0' name='మొత్తం' posn='20'>
+2.2	12	QT_QTC	<fs af='12,num,,,,,,' name='12' posn='30'>
+2.3	మంది	JJ	<fs af='మంది,avy,,,,,,' name='మంది' posn='40'>
+2.4	చక్రవర్తులలో	N_NN	<fs af='చక్రవర్తి,n,m,pl,3,o,లో,lo' name='చక్రవర్తులలో' posn='50'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	ఆరు	QT_QTC	<fs af='ఆరు,num,,,,,,' name='ఆరు' posn='60'>
+3.2	మంది	RP_CL	<fs af='మంది,avy,,,,,,' name='మంది2' posn='70'>
+3.3	చక్రవర్తుల	N_NN	<fs af='చక్రవర్తి,n,m,pl,3,o,టి,ti' name='చక్రవర్తుల' posn='80'>
+	))
+4	((	NP	<fs name='NP4' drel='k1:NULL__VGF'>
+4.1	జన్మస్థలం	N_NN	<fs af='జన్మస్థలం,n,fn,sg,3,d,0,0' name='జన్మస్థలం' posn='90'>
+	))
+5	((	NP	<fs name='NP5' drel='k1s:NULL__VGF'>
+5.1	హస్తినాపురం	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,d,0,0' name='హస్తినాపురం' posn='100'>
+	))
+6	((	NULL__VGF	<fs af=',,,,,,,' mtype='gap' troot='ఉండు' name='NULL__VGF' stype='declarative' voicetype='active'>
+6.1	NULL	V_VM_VF	<fs af=',,,,,,,' name='NULL'>
+	))
+7	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:NULL__VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='110'>
+	))
+</Sentence>
+
+<Sentence id='116'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='r6:NP2'>
+1.1	రామాయణ	N_NNP	<fs af='రామాయణం,n,fn,sg,3,o,టి,ti' name='రామాయణ' posn='10'>
+1.2	కాలంలోని	N_NN	<fs af='కాలం,n,fn,sg,3,o,లోని,loni' name='కాలంలోని' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	పరశురాముడు	N_NNP	<fs af='పరశురాముడు,n,m,sg,3,d,0,0' name='పరశురాముడు' posn='30'>
+2.2	కూడా	RP_RPD	<fs af='కూడా,avy,,,,,0,0_avy' name='కూడా' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGF'>
+3.1	హస్తినాపురంలోనే	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo_e' name='హస్తినాపురంలోనే' posn='50'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+4.1	జన్మించాడు	V_VM_VF	<fs af='జన్మించు,v,m,sg,3,,ఆ,A' name='జన్మించాడు' posn='60'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='117'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	హస్తినాపురం	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,d,0,0' name='హస్తినాపురం' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='ccof:CCP'>
+2.1	కౌరవులకు	N_NNP	<fs af='కౌరవులు,n,any,pl,3,o,కి,ki' name='కౌరవులకు' posn='20'>
+	))
+3	((	CCP	<fs name='CCP' drel='r6:NP4'>
+3.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='30'>
+	))
+4	((	NP	<fs name='NP3' drel='ccof:CCP'>
+4.1	పాండవులకు	N_NNP	<fs af='పాండవులు,n,m,pl,3,o,కి,ki' name='పాండవులకు' posn='40'>
+	))
+5	((	NP	<fs name='NP4' drel='k1s:VGF'>
+5.1	రాజధానిగా	N_NN	<fs af='రాజధాని,n,fn,sg,3,o,గా,gA' name='రాజధానిగా' posn='50'>
+	))
+6	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+6.1	ఉన్నది	V_VM_VF	<fs af='ఉండు,v,fn,sg,3,,ఆ,A' name='ఉన్నది' posn='60'>
+	))
+7	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='118'>
+1	((	NP	<fs name='NP' drel='ccof:CCP'>
+1.1	కార్తీక	N_NNP	<fs af='కార్తీకం,n,fn,sg,3,o,టి,ti' name='కార్తీక' posn='10'>
+1.2	పౌర్ణమి	N_NN	<fs af='పౌర్ణమి,n,fn,sg,3,d,0,0' name='పౌర్ణమి' posn='20'>
+	))
+2	((	CCP	<fs name='CCP' drel='k7t:NULL__VGF'>
+2.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='30'>
+	))
+3	((	NP	<fs name='NP2' drel='ccof:CCP'>
+3.1	వైశాఖ	N_NNP	<fs af='వైశాఖ,n,fn,sg,3,d,0,0' name='వైశాఖ' posn='40'>
+3.2	శుక్ల	N_NN	<fs af='శుక్ల,n,fn,sg,3,d,0,0' name='శుక్ల' posn='50'>
+3.3	తృతీయ	QT_QTC	<fs af='తృతీయ,num,,,,,,' name='తృతీయ' posn='60'>
+3.4	నాడు	PR_PRP	<fs af='నాడు,n,fn,sg,3,d,0,0' name='నాడు' posn='70'>
+	))
+4	((	NP	<fs name='NP3' drel='k7p:NULL__VGF'>
+4.1	శ్వేతాంబర	JJ	<fs af='శ్వేతాంబర,adj,,,,d,0,0' name='శ్వేతాంబర' posn='80'>
+4.2	జైన	N_NNP	<fs af='జైన,n,fn,sg,3,d,0,0' name='జైన' posn='90'>
+4.3	దేవాలయంలో	N_NN	<fs af='దేవాలయం,n,fn,sg,3,o,లో,lo' name='దేవాలయంలో' posn='100'>
+	))
+5	((	NULL__NP	<fs af=',,,,,,,' troot='ఏర్పాటు' mtype='gap' name='NULL__NP' dmrel='pof:NULL__VGF'>
+5.1	NULL	N_NN	<fs af=',,,,,,,' name='NULL'>
+	))
+6	((	NULL__VGF	<fs af=',,,,,,,' troot='చేయబడు' mtype='gap' name='NULL__VGF' dmrel='ccof:CCP2' voicetype='passive' stype='declarative'>
+6.1	NULL	V_VM_VF	<fs af=',,,,,,,' name='NULL2'>
+	))
+7	((	CCP	<fs af=',,,,,,,' name='CCP2'>
+7.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు2' posn='110'>
+	))
+8	((	NP	<fs name='NP4' drel='rsp:NP5'>
+8.1	కార్తీక	N_NNP	<fs af='కార్తీకం,n,fn,sg,3,o,టి,ti' name='కార్తీక2' posn='120'>
+8.2	శుక్ల	N_NN	<fs af='శుక్ల,n,fn,sg,3,o,టి,ti' name='శుక్ల2' posn='130'>
+8.3	అమావాస్య	N_NN	<fs af='అమావాస్య,n,fn,sg,3,d,0,0' name='అమావాస్య' posn='140'>
+8.4	నుండి	PSP	<fs af='నుండి,psp,,,,,,' name='నుండి' posn='150'>
+	))
+9	((	NP	<fs name='NP5' drel='k7t:VGF'>
+9.1	పూర్ణిమకు	N_NN	<fs af='పూర్ణిమ,n,fn,sg,3,o,కి,ki' name='పూర్ణిమకు' posn='160'>
+9.2	మధ్య	N_NST	<fs af='మధ్య,nst,,,,d,0,0' name='మధ్య' posn='170'>
+	))
+10	((	NP	<fs name='NP6' drel='k7p:VGF'>
+10.1	దిగంబర	JJ	<fs af='దిగంబర,adj,,,,d,0,0' name='దిగంబర' posn='180'>
+10.2	జైన	N_NNP	<fs af='జైన,n,fn,sg,3,d,0,0' name='జైన2' posn='190'>
+10.3	దేవాలయంలో	N_NN	<fs af='దేవాలయం,n,fn,sg,3,o,లో,lo' name='దేవాలయంలో2' posn='200'>
+	))
+11	((	NP	<fs name='NP7' drel='k2:VGF'>
+11.1	కార్యక్రమాలు	N_NN	<fs af='కార్యక్రమం,n,fn,pl,3,d,0,0' name='కార్యక్రమాలు' posn='210'>
+	))
+12	((	NP	<fs name='NP8' drel='pof:VGF'>
+12.1	ఏర్పాటు	N_NN	<fs af='ఏర్పాటు,n,fn,sg,3,d,0,0' name='ఏర్పాటు' posn='220'>
+	))
+13	((	VGF	<fs af=',,,,,,,' name='VGF' drel='ccof:CCP2' stype='declarative' voicetype='passive'>
+13.1	చేయబడతాయి	V_VM_VF	<fs af='చేయబడు,v,n,pl,3,,తా,wA' name='చేయబడతాయి' posn='230'>
+	))
+14	((	BLK	<fs name='BLK' drel='rsym:CCP2'>
+14.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='240'>
+	))
+</Sentence>
+
+<Sentence id='119'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	ఆదినాథ	N_NNP	<fs af='ఆదినాథ,n,fn,sg,3,d,0,0' name='ఆదినాథ' posn='10'>
+1.2	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='ccof:CCP'>
+2.1	పోదనపురం	N_NNP	<fs af='పోదనపురం,n,fn,sg,3,d,0,0' name='పోదనపురం' posn='30'>
+	))
+3	((	CCP	<fs name='CCP' drel='k2p:VGF'>
+3.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='40'>
+	))
+4	((	NP	<fs name='NP3' drel='ccof:CCP'>
+4.1	హస్తినాపుర	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,టి,ti' name='హస్తినాపుర' posn='50'>
+4.2	రాజ్యాన్ని	N_NNP	<fs af='రాజ్యం,n,fn,sg,3,o,ని,ni' name='రాజ్యాన్ని' posn='60'>
+	))
+5	((	NP	<fs name='NP4' drel='r6:NP5'>
+5.1	అతని	PR_PRP	<fs af='అతను,pn,m,sg,3,o,టి,ti' name='అతని' posn='70'>
+	))
+6	((	NP	<fs name='NP5' drel='nmod:NP6'>
+6.1	కుమారుడు	N_NN	<fs af='కుమారుడు,n,m,sg,3,d,0,0' name='కుమారుడు' posn='80'>
+	))
+7	((	NP	<fs name='NP6' drel='k4:VGF'>
+7.1	బాహుబలికి	N_NNP	<fs af='బాహుబలి,n,m,sg,3,o,కి,ki' name='బాహుబలికి' posn='90'>
+	))
+8	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+8.1	అప్పగించాడు	V_VM_VF	<fs af='అప్పగించు,v,m,sg,3,,ఆ,A' name='అప్పగించాడు' posn='100'>
+	))
+9	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF'>
+9.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='110'>
+	))
+</Sentence>
+
+<Sentence id='120'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	బాహుబలి	N_NNP	<fs af='బాహుబలి,n,m,sg,3,d,0,0' name='బాహుబలి' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k2p:VGF'>
+2.1	పోదన్పురాన్ని	N_NNP	<fs af='పోదన్పురం,n,fn,sg,3,o,ని,ni' name='పోదన్పురాన్ని' posn='20'>
+	))
+3	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+3.1	పరిపాలించాడు	V_VM_VF	<fs af='పరిపాలించు,v,m,sg,3,,ఆ,A' name='పరిపాలించాడు' posn='30'>
+	))
+4	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+4.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='40'>
+	))
+</Sentence>
+
+<Sentence id='121'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7t:NULL__VGF'>
+1.1	అప్పుడు	PR_PRP	<fs af='అప్పుడు,pn,,,,d,0,0' name='అప్పుడు' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	అతని	PR_PRP	<fs af='అతను,pn,m,sg,3,o,టి,ti' name='అతని' posn='20'>
+	))
+3	((	NP	<fs name='NP3' drel='nmod:NP4'>
+3.1	కుమారుడు	N_NN	<fs af='కుమారుడు,n,m,sg,3,d,0,0' name='కుమారుడు' posn='30'>
+	))
+4	((	NP	<fs name='NP4' drel='k1:NULL__VGF'>
+4.1	సోమయశుడు	N_NNP	<fs af='సోమయశుడు,n,m,sg,3,d,0,0' name='సోమయశుడు' posn='40'>
+	))
+5	((	NP	<fs name='NP5' drel='k7p:NULL__VGF'>
+5.1	హస్తినాపురంలో	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo' name='హస్తినాపురంలో' posn='50'>
+	))
+6	((	NULL__VGF	<fs af=',,,,,,,' troot='ఉండు' mtype='gap' name='NULL__VGF' stype='declarative' voicetype='active'>
+6.1	NULL	V_VM_VF	<fs af=',,,,,,,' name='NULL'>
+	))
+7	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:NULL__VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='60'>
+	))
+</Sentence>
+
+<Sentence id='122'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='nmod:NP2'>
+1.1	బాహుబలి	N_NNP	<fs af='బాహుబలి,n,m,sg,3,d,0,0' name='బాహుబలి' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='nmod:NP3'>
+2.1	చిన్న	JJ	<fs af='చిన్న,adj,,,,d,0,0_adj' deri_cat='n' name='చిన్న' posn='20'>
+2.2	తమ్ముడు	N_NN	<fs af='తమ్ముడు,n,m,sg,3,d,0,0' name='తమ్ముడు' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k1:VGF'>
+3.1	శ్రేయాంష	N_NNP	<fs af='శ్రేయాంష,n,m,sg,3,d,0,0' name='శ్రేయాంష' posn='40'>
+3.2	కుమారుడు	N_NN	<fs af='కుమారుడు,n,m,sg,3,d,0,0' name='కుమారుడు' posn='50'>
+	))
+4	((	NP	<fs name='NP4' drel='r6-k2:NP5'>
+4.1	ఆదినాథ్	N_NNP	<fs af='ఆదినాథ్,n,m,sg,3,d,0,0' name='ఆదినాథ్' posn='60'>
+4.2	భగవంతునికి	N_NN	<fs af='భగవంతుడు,n,m,sg,3,o,కి,ki' name='భగవంతునికి' posn='70'>
+	))
+5	((	NP	<fs name='NP5' drel='pof:VGF'>
+5.1	పాదాభిషేకం	N_NN	<fs af='పాదాభిషేకం,n,fn,sg,3,d,0,0' name='పాదాభిషేకం' posn='80'>
+	))
+6	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+6.1	చేశాడు	V_VM_VF	<fs af='చెయ్యి,v,m,sg,3,,ఆ,A' name='చేశాడు' posn='90'>
+	))
+7	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='100'>
+	))
+</Sentence>
+
+<Sentence id='123'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='r6:NP2'>
+1.1	శ్రేయాంష	N_NNP	<fs af='శ్రేయాంష,n,m,sg,3,d,0,0' name='శ్రేయాంష' posn='10'>
+1.2	కుమారుని	N_NN	<fs af='కుమారుడు,n,m,sg,3,o,ని,ni' name='కుమారుని' posn='20'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='vmod:VGF'>
+2.1	గుర్తుగా	N_NN	<fs af='గుర్తు,n,fn,sg,3,o,గా,gA' name='గుర్తుగా' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k2:VGF'>
+3.1	రత్న	N_NN	<fs af='రత్నం,n,fn,sg,3,o,టి,ti' name='రత్న' posn='40'>
+3.2	స్తంభాన్ని	N_NN	<fs af='స్తంభం,n,fn,sg,3,o,ను,nu' name='స్తంభాన్ని' posn='50'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+4.1	నిర్మించాడు	V_VM_VF	<fs af='నిర్మించు,v,m,sg,3,,ఆ,A' name='నిర్మించాడు' posn='60'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='124'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	అక్కడ	PR_PRP	<fs af='అక్కడ,pn,,,,d,0,0' name='అక్కడ' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	ఆదినాథ్	N_NNP	<fs af='ఆదినాథ్,n,m,sg,3,d,0,0' name='ఆదినాథ్' posn='20'>
+2.2	భగవంతుని	N_NN	<fs af='భగవంతుడు,n,m,sg,3,o,టి,ti' name='భగవంతుని' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k2:VGF'>
+3.1	పాదరక్షలను	N_NN	<fs af='పాదరక్ష,n,fn,pl,3,o,ని,ni' name='పాదరక్షలను' posn='40'>
+3.2	కూడా	RP_RPD	<fs af='కూడా,avy,,,,,,' name='కూడా' posn='50'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+4.1	స్థాపించారు	V_VM_VF	<fs af='స్థాపించు,v,fm,pl,3,,ఆ,A' name='స్థాపించారు' posn='60'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='125'>
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	రాజా	N_NNP	<fs af='రాజా,n,m,sg,3,d,0,0' name='రాజా' posn='10'>
+1.2	శివరాజు	N_NNP	<fs af='శివరాజు,n,m,sg,3,d,0,0' name='శివరాజు' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGNF'>
+2.1	మహావీర్	N_NNP	<fs af='మహావీర్,n,m,sg,3,d,0,0' name='మహావీర్' posn='20'>
+2.2	స్వామి	N_NN	<fs af='స్వామి,n,m,sg,3,d,0,0' name='స్వామి' posn='30'>
+	))
+3	((	NP	<fs af=',,,,,,,' name='NP3' drel='k2:VGNF'>
+3.1	ప్రవచనాలను	N_NN	<fs af='ప్రవచనం,n,fn,pl,3,o,ని,ni' name='ప్రవచనాలను' posn='40'>
+	))
+4	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+4.1	విని	V_VM_VNF	<fs af='విను,v,any,any,any,,ఇ,i' name='విని' posn='50'>
+	))
+5	((	NP	<fs name='NP4' drel='k2:VGF'>
+5.1	జైన	N_NNP	<fs af='జైన,n,fn,sg,3,o,టి,ti' name='జైన' posn='60'>
+5.2	ధర్మాన్ని	N_NN	<fs af='ధర్మం,n,fn,sg,3,o,ని,ni' name='ధర్మాన్ని' posn='70'>
+	))
+6	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+6.1	స్వీకరించాడు	V_VM_VF	<fs af='స్వీకరించు,v,m,sg,3,,ఆ,A' name='స్వీకరించాడు' posn='80'>
+	))
+7	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='90'>
+	))
+</Sentence>
+
+<Sentence id='126'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='nmod:NP2'>
+1.1	మహావీర్	N_NNP	<fs af='మహావీర్,n,m,sg,3,d,0,0' name='మహావీర్' posn='10'>
+1.2	స్వామి	N_NN	<fs af='స్వామి,n,fn,sg,3,d,0,0' name='స్వామి' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='vmod:VGF'>
+2.1	గుర్తుగా	N_NN	<fs af='గుర్తు,n,fn,sg,3,o,గా,gA' name='గుర్తుగా' posn='30'>
+	))
+3	((	NP	<fs af=',,,,,,,' name='NP3' drel='k1:VGF'>
+3.1	రాజా	N_NNP	<fs af='రాజ,n,fn,sg,3,d,0,0_A' name='రాజా' posn='40'>
+3.2	శివరాజు	N_NNP	<fs af='శివరాజు,n,fn,sg,3,d,0,0' name='శివరాజు' posn='50'>
+	))
+4	((	NP	<fs name='NP4' drel='k7p:VGF'>
+4.1	హస్తినాపురంలో	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,o,లో,lo' name='హస్తినాపురంలో' posn='60'>
+	))
+5	((	NP	<fs name='NP5' drel='k2:VGF'>
+5.1	ఒక	QT_QTC	<fs af='ఒక,adj,,,,d,,' deri_cat='n' name='ఒక' posn='70'>
+5.2	స్తంభాన్ని	N_NN	<fs af='స్తంభం,n,fn,sg,3,o,ని,ni' name='స్తంభాన్ని' posn='80'>
+	))
+6	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+6.1	నిర్మించాడు	V_VM_VF	<fs af='నిర్మించు,v,m,sg,3,,ఆ,A' name='నిర్మించాడు' posn='90'>
+	))
+7	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='100'>
+	))
+</Sentence>
+
+<Sentence id='127'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='r6:NP2'>
+1.1	చక్రవర్తి	N_NN	<fs af='చక్రవర్తి,n,m,sg,3,d,0,0' name='చక్రవర్తి' posn='10'>
+1.2	అశోకుని	N_NNP	<fs af='అశోకుడు,n,m,sg,3,o,టి,ti' name='అశోకుని' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	వంశస్థుడు	N_NN	<fs af='వంశస్థుడు,n,m,sg,3,d,0,0' name='వంశస్థుడు' posn='30'>
+2.2	కూడా	RP_RPD	<fs af='కూడా,avy,,,,,0,0_avy' name='కూడా' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	అతని	PR_PRP	<fs af='అతను,pn,m,sg,3,o,టి,ti' name='అతని' posn='50'>
+	))
+4	((	NP	<fs name='NP4' drel='k7t:VGF'>
+4.1	పాలనా	N_NN	<fs af='పాలన,n,fn,sg,3,d,0,0_A' name='పాలనా' posn='60'>
+4.2	కాలంలో	N_NN	<fs af='కాలం,n,fn,sg,3,o,లో,lo' name='కాలంలో' posn='70'>
+	))
+5	((	RBP	<fs name='RBP' drel='adv:VGF'>
+5.1	క్రమంగా	RB	<fs af='క్రమంగా,adv,,,,,,' name='క్రమంగా' posn='80'>
+	))
+6	((	NP	<fs name='NP5' drel='k2:VGF'>
+6.1	అనేక	QT_QTF	<fs af='అనేక,avy,,,,,,' deri_cat='n' name='అనేక' posn='90'>
+6.2	జైన	N_NNP	<fs af='జైన,n,fn,sg,3,o,టి,ti' name='జైన' posn='100'>
+6.3	దేవాలయాలను	N_NN	<fs af='దేవాలయం,n,fn,pl,3,o,ని,ni' name='దేవాలయాలను' posn='110'>
+	))
+7	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+7.1	కట్టించాడు	V_VM_VF	<fs af='కట్టించు,v,m,sg,3,,ఆ,A' name='కట్టించాడు' posn='120'>
+	))
+8	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+8.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='130'>
+	))
+</Sentence>
+
+<Sentence id='128'>
+1	((	CCP	<fs af=',,,,,,,' name='CCP'>
+1.1	కానీ	CC_CCD	<fs af='కానీ,avy,,,,,0,0_avy' name='కానీ' posn='10'>
+	))
+2	((	NP	<fs name='NP' drel='ras-k1:VGF'>
+2.1	కాలంతోపాటు	N_NN	<fs af='కాలం,n,fn,sg,3,o,తోపాటు,wopAtu' name='కాలంతోపాటు' posn='20'>
+	))
+3	((	NP	<fs name='NP2' drel='r6:NP3'>
+3.1	వారి	PR_PRP	<fs af='వారు,pn,fm,pl,3,o,టి,ti' name='వారి' posn='30'>
+	))
+4	((	NP	<fs name='NP3' drel='ccof:CCP2'>
+4.1	ప్రాచీన	JJ	<fs af='ప్రాచీన,adj,,,,,0,0_adj' deri_cat='n' name='ప్రాచీన' posn='40'>
+4.2	స్తంభాలు	N_NN	<fs af='స్తంభం,n,fn,pl,3,d,0,0' name='స్తంభాలు' posn='50'>
+	))
+5	((	CCP	<fs name='CCP2' drel='k1:VGF'>
+5.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='60'>
+	))
+6	((	NP	<fs name='NP4' drel='ccof:CCP2'>
+6.1	దేవాలయాలు	N_NN	<fs af='దేవాలయం,n,fn,pl,3,d,0,0' name='దేవాలయాలు' posn='70'>
+	))
+7	((	RBP	<fs name='RBP' drel='adv:VGF'>
+7.1	మెల్ల	RB	<fs af='మెల్ల,adv,,,,,,' name='మెల్ల' posn='80'>
+7.2	-	RD_PUNC	<fs af='&minus;,punc,,,,,,' name='-' posn='90'>
+7.3	మెల్లగా	RD_RDF	<fs af='మెల్లగా,adv,,,,,,' name='మెల్లగా' posn='100'>
+	))
+8	((	VGF	<fs af=',,,,,,,' name='VGF' drel='ccof:CCP' stype='declarative' voicetype='active'>
+8.1	కరిగిపోయాయి	V_VM_VF	<fs af='కరుగు,v,any,sg,3,,ఇ_పో_ఆ,i_po_A' name='కరిగిపోయాయి' posn='110'>
+	))
+9	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+9.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='120'>
+	))
+</Sentence>
+
+<Sentence id='129'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='10'>
+1.2	హస్తినాపురం	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,d,0,0' name='హస్తినాపురం' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k7p:VGF'>
+2.1	పవిత్ర	JJ	<fs af='పవిత్ర,adj,,,,d,0,0_adj' deri_cat='n' name='పవిత్ర' posn='30'>
+2.2	గంగానది	N_NNP	<fs af='గంగానది,n,f,sg,3,d,0,0' name='గంగానది' posn='40'>
+2.3	ఒడ్డున	N_NN	<fs af='ఒడ్డు,n,fn,sg,3,o,టి,ti' name='ఒడ్డున' posn='50'>
+	))
+3	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+3.1	ఉన్నది	V_VM_VF	<fs af='ఉండు,v,fn,sg,3,,ఆ,A' name='ఉన్నది' posn='60'>
+	))
+4	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+4.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='70'>
+	))
+</Sentence>
+
+<Sentence id='130'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGNF'>
+1.1	హస్తినాపురం	N_NNP	<fs af='హస్తినాపురం,n,fn,sg,3,d,0,0' name='హస్తినాపురం' posn='10'>
+	))
+2	((	VGNF	<fs af=',,,,,,,' name='VGNF' drel='nmod:NP2'>
+2.1	వెళ్ళే	V_VM_VNF	<fs af='వెళ్ళు,v,any,any,any,,ఏ,e' name='వెళ్ళే' posn='20'>
+	))
+3	((	NP	<fs af=',,,,,,,' name='NP2' drel='k1:VGNN'>
+3.1	ప్రజలు	N_NN	<fs af='ప్రజలు,n,any,pl,3,d,0,0' name='ప్రజలు' posn='30'>
+	))
+4	((	VGNN	<fs af=',,,,,,,' name='VGNN' drel='rt:VGF'>
+4.1	ఉండడానికి	V_VM_VNG	<fs af='ఉండు,v,any,any,any,o,అడం_కి,adAM_ki' name='ఉండడానికి' posn='40'>
+	))
+5	((	NP	<fs name='NP3' drel='k2:VGF'>
+5.1	ధర్మశాలలు	N_NN	<fs af='ధర్మశాల,n,fn,pl,3,d,0,0' name='ధర్మశాలలు' posn='50'>
+5.2	కూడా	RP_RPD	<fs af='కూడా,avy,,,,,0,0_avy' name='కూడా' posn='60'>
+	))
+6	((	NP	<fs name='NP4' drel='pof:VGF'>
+6.1	ఏర్పాటు	N_NN	<fs af='ఏర్పాటు,n,fn,sg,3,d,0,0' name='ఏర్పాటు' posn='70'>
+	))
+7	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='passive' stype='declarative'>
+7.1	చేయబడినవి	V_VM_VF	<fs af='చెయ్యి,v,any,pl,3,,బడు_ఇన_అది,badu_ina_axi' name='చేయబడినవి' posn='80'>
+	))
+8	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+8.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='90'>
+	))
+</Sentence>
+
+<Sentence id='131'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='nmod:NP2'>
+1.1	శ్వేతాంబర్	JJ	<fs af='శ్వేతాంబర్,adj,,,,d,0,0' name='శ్వేతాంబర్' posn='10'>
+1.2	ట్రస్ట్	N_NN	<fs af='ట్రస్ట్,n,fn,sg,3,d,0,0' name='ట్రస్ట్' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k7p:VGNN'>
+2.1	ధర్మశాలలో	N_NN	<fs af='ధర్మశాల,n,fn,sg,3,o,లో,lo' name='ధర్మశాలలో' posn='30'>
+	))
+3	((	VGNN	<fs name='VGNN' drel='rt:NULL__VGF'>
+3.1	ఉండటానికి	V_VM_VNG	<fs af='ఉండు,v,any,any,any,o,అడం_కి,adAM_ki' name='ఉండటానికి' posn='40'>
+	))
+4	((	NP	<fs name='NP3' drel='k1:NULL__VGF'>
+4.1	400	QT_QTC	<fs af='400,num,,,,,,' name='400' posn='50'>
+4.2	గదులు	N_NN	<fs af='గది,n,fn,pl,3,d,0,0' name='గదులు' posn='60'>
+	))
+5	((	NULL__VGF	<fs af=',,,,,,,' mtype='gap' troot='ఉండు' name='NULL__VGF' dmrel='ccof:CCP'>
+5.1	NULL	V_VM_VF	<fs name='NULL'>
+	))
+6	((	CCP	<fs af=',,,,,,,' name='CCP'>
+6.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='70'>
+	))
+7	((	NP	<fs name='NP4' drel='nmod:BLK'>
+7.1	ఉదయం	N_NN	<fs af='ఉదయం,n,fn,sg,3,d,0,0' name='ఉదయం' posn='80'>
+	))
+8	((	BLK	<fs name='BLK' drel='ccof:CCP2'>
+8.1	నాస్టా	RD_UNK	<fs af='నాస్టా,unk,,,,,,' name='నాస్టా' posn='90'>
+8.2	,	RD_PUNC	<fs af='&comma;,punc,,,,,,' name=',' posn='100'>
+	))
+9	((	NP	<fs name='NP5' drel='nmod:NP6'>
+9.1	మధ్యాహ్నం	N_NN	<fs af='మధ్యాహ్నం,n,fn,sg,3,d,0,0' name='మధ్యాహ్నం' posn='110'>
+	))
+10	((	NP	<fs name='NP6' drel='ccof:CCP2'>
+10.1	భోజనం	N_NN	<fs af='భోజనం,n,fn,sg,3,d,0,0' name='భోజనం' posn='120'>
+	))
+11	((	CCP	<fs name='CCP2' drel='nmod:NP9'>
+11.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు2' posn='130'>
+	))
+12	((	NP	<fs af=',,,,,,,' name='NP7' drel='nmod:NP8'>
+12.1	రాత్రి	N_NN	<fs af='రాత్రి,n,fn,sg,3,d,0,0' name='రాత్రి' posn='140'>
+	))
+13	((	NP	<fs af=',,,,,,,' name='NP8' drel='ccof:CCP2'>
+13.1	భోజన	N_NN	<fs af='భోజనం,n,fn,sg,3,o,టి,ti' name='భోజన' posn='150'>
+	))
+14	((	NP	<fs name='NP9' drel='k1:VGF'>
+14.1	సదుపాయాలు	N_NN	<fs af='సదుపాయం,n,fn,pl,3,d,0,0' name='సదుపాయాలు' posn='160'>
+	))
+15	((	VGF	<fs af=',,,,,,,' name='VGF' drel='ccof:CCP' stype='declarative' voicetype='active'>
+15.1	ఉన్నాయి	V_VM_VF	<fs af='ఉండు,v,fn,pl,3,,ఆ,A' name='ఉన్నాయి' posn='170'>
+	))
+16	((	BLK	<fs name='BLK2' drel='rsym:CCP'>
+16.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='180'>
+	))
+</Sentence>
+
+<Sentence id='132'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='sent-adv:VGF'>
+1.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='10'>
+1.2	విధంగా	N_NN	<fs af='విధం,n,fn,sg,3,o,గా,gA' name='విధంగా' posn='20'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='k1:VGF'>
+2.1	ఇతర	JJ	<fs af='ఇతర,adj,,,,,,' name='ఇతర' posn='30'>
+2.2	అనేక	QT_QTF	<fs af='అనేక,avy,,,,,,' name='అనేక' posn='40'>
+2.3	ధర్మశాలలు	N_NN	<fs af='ధర్మశాల,n,fn,pl,3,d,0,0' name='ధర్మశాలలు' posn='50'>
+	))
+3	((	RBP	<fs name='RBP' drel='adv:VGF'>
+3.1	సులభంగా	RB	<fs af='సులభంగా,adv,,,,,,' name='సులభంగా' posn='60'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+4.1	లభిస్తాయి	V_VM_VF	<fs af='లభించు,v,n,pl,3,,తా,wA' name='లభిస్తాయి' posn='70'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='80'>
+	))
+</Sentence>
+
+<Sentence id='133'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF' comment='WrongSentence'>
+1.1	అతిశయ	JJ	<fs af='అతిశయ,adj,,,,d,0,0' name='అతిశయ' posn='10'>
+1.2	క్షేత్రం	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,d,0,0' name='క్షేత్రం' posn='20'>
+1.3	తిజారాలో	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారాలో' posn='30'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='jjmod:JJP'>
+2.1	కోరిక	N_NN	<fs af='కోరిక,n,fn,sg,3,d,0,0' name='కోరిక' posn='40'>
+2.2	మీదట	N_NST	<fs af='మీదట,nst,,,,d,,' comment=''need' name='మీదట' posn='50'>
+	))
+3	((	JJP	<fs name='JJP' drel='pof:VGF'>
+3.1	ఎక్కువగా	QT_QTF	<fs af='ఎక్కువగా,avy,,,,,,' name='ఎక్కువగా' posn='60'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+4.1	లభిస్తుంది	V_VM_VF	<fs af='లభించు,v,fn,sg,3,,తా,wA' name='లభిస్తుంది' posn='70'>
+	))
+5	((	NP	<fs name='NP3' drel='k7p:VGF'>
+5.1	ఇక్కడ	PR_PRP	<fs af='ఇక్కడ,pn,,,,d,0,0' name='ఇక్కడ' posn='80'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='90'>
+	))
+</Sentence>
+
+<Sentence id='134'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='nmod:NP2'>
+1.1	చంద్ర	N_NNP	<fs af='చంద్ర,n,m,sg,3,o,టి,ti' name='చంద్ర' posn='10'>
+1.2	ప్రభువు	N_NNP	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	దిగంబర	N_NNP	<fs af='దిగంబరం,adj,,,,d,,' name='దిగంబర' posn='30'>
+2.2	జైనుని	N_NNP	<fs af='జైన్,n,any,sg,3,o,టి,ti' name='జైనుని' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='nmod:NP4'>
+3.1	అతిశయక్షేత్రం	N_NN	<fs af='అతిశయక్షేత్రం,n,fn,sg,3,d,0,0' name='అతిశయక్షేత్రం' posn='50'>
+	))
+4	((	NP	<fs name='NP4' drel='k1:VGF'>
+4.1	దేహరా	N_NNP	<fs af='దేహరా,n,fn,sg,3,d,0,0' name='దేహరా' posn='60'>
+4.2	-	RD_PUNC	<fs af='&minus;,punc,,,,,,' name='-' posn='70'>
+4.3	తిజారా	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారా' posn='80'>
+4.4	,	RD_PUNC	<fs af='&comma;,punc,,,,,,' name=',' posn='90'>
+	))
+5	((	NP	<fs name='NP5' drel='nmod:NP6'>
+5.1	రాజస్థాన్	N_NNP	<fs af='రాజస్థాన్,n,fn,sg,3,d,0,0' name='రాజస్థాన్' posn='100'>
+	))
+6	((	NP	<fs name='NP6' drel='k7p:VGF'>
+6.1	అలవర్	N_NNP	<fs af='అలవర్,n,fn,sg,3,d,0,0' name='అలవర్' posn='110'>
+6.2	జిల్లాలో	N_NN	<fs af='జిల్లా,n,fn,sg,3,o,లో,lo' name='జిల్లాలో' posn='120'>
+	))
+7	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+7.1	ఉంది	V_VM_VF	<fs af='ఉండు,v,fn,sg,3,,ఆ,A' name='ఉంది' posn='130'>
+	))
+8	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+8.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='140'>
+	))
+</Sentence>
+
+<Sentence id='135'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k2:VGF'>
+1.1	ఇది	PR_PRP	<fs af='ఇది,pn,fn,sg,3,d,0,0' name='ఇది' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k2s:VGF'>
+2.1	అతిశయ	JJ	<fs af='అతిశయం,n,fn,sg,3,o,టి,ti' name='అతిశయ' posn='20'>
+2.2	క్షేత్రంగా	N_NNP	<fs af='క్షేత్రం,n,fn,sg,3,o,గా,gA' name='క్షేత్రంగా' posn='30'>
+	))
+3	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='passive' stype='declarative'>
+3.1	పిలువబడుతున్నది	V_VM_VF	<fs af='పిలు,v,fn,sg,3,,అ_బడు_తున్న_అది,a_badu_Wunna_axi' name='పిలువబడుతున్నది' posn='40'>
+	))
+4	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF'>
+4.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='50'>
+	))
+</Sentence>
+
+<Sentence id='136'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='r6:NP2'>
+1.1	అతిశయానికి	N_NN	<fs af='అతిశయం,n,fn,sg,3,o,కి,ki' name='అతిశయానికి' posn='10'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:NULL__VGF'>
+2.1	అర్థము	N_NN	<fs af='అర్థం,n,fn,sg,3,d,0,0' name='అర్థము' posn='20'>
+	))
+3	((	NP	<fs name='NP3' drel='k1s:NULL__VGF'>
+3.1	ఏమిటి	PR_PRQ	<fs af='ఏమిటి,pn,,,,d,0,0' name='ఏమిటి' posn='30'>
+	))
+4	((	NULL__VGF	<fs af=',,,,,,,' mtype='gap' troot='ఉండు' name='NULL__VGF' stype='declarative' voicetype='active'>
+4.1	NULL	V_VM_VF	<fs af=',,,,,,,' name='NULL'>
+	))
+5	((	CCP	<fs af=',,,,,,,' name='CCP' drel='rs:NP3'>
+5.1	అంటే	CC_CCD	<fs af='అంటే,avy,,,,,0,0_avy' name='అంటే' posn='40'>
+	))
+6	((	NP	<fs name='NP4' drel='vmod:NULL__VGF2'>
+6.1	సామాన్యం	N_NN	<fs af='సామాన్యం,n,fn,sg,3,d,0,0' name='సామాన్యం' posn='50'>
+6.2	కంటే	PSP	<fs af='కంటే,psp,,,,,,' name='కంటే' posn='60'>
+	))
+7	((	JJP	<fs name='JJP' drel='vmod:NULL__VGF2'>
+7.1	చాలా	RP_INTF	<fs af='చాలా,avy,,,,,0,0_avy' name='చాలా' posn='70'>
+7.2	ఎక్కువ	QT_QTF	<fs af='ఎక్కువ,avy,,,,,,' deri_cat='n' name='ఎక్కువ' posn='80'>
+	))
+8	((	NULL__VGF	<fs af=',,,,,,,' mtype='gap' troot='లభించు' name='NULL__VGF2' dmrel='ccof:CCP' stype='declarative' voicetype='active'>
+8.1	NULL	V_VM_VF	<fs af=',,,,,,,' name='NULL2'>
+	))
+9	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:NULL__VGF2'>
+9.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='90'>
+	))
+</Sentence>
+
+<Sentence id='137'>
+1	((	CCP	<fs af=',,,,,,,' name='CCP' comment='SoManyMistakes---DoubleCheck'>
+1.1	అనగా	CC_CCD	<fs af='అనగా,avy,,,,,0,0_avy' name='అనగా' posn='10'>
+	))
+2	((	NP	<fs name='NP' drel='k7p:VGF'>
+2.1	ఇటువంటి	DM_DMD	<fs af='ఇటువంటి,avy,,,,,,' name='ఇటువంటి' posn='20'>
+2.2	క్షేత్రంలో	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,o,లో,lo' name='క్షేత్రంలో' posn='30'>
+	))
+3	((	NP	<fs name='NP2' drel='k7p:VGF'>
+3.1	ఎక్కడైనా	PR_PRP	<fs af='ఎక్కడైనా,pn,,,,d,0,0' name='ఎక్కడైనా' posn='40'>
+	))
+4	((	JJP	<fs af=',,,,,,,' name='JJP' drel='ccof:CCP2'>
+4.1	కొంచెం	QT_QTF	<fs af='కొంచెం,avy,,,,,,' name='కొంచెం' posn='50'>
+4.2	అసాధారణంగా	RB	<fs af='అసాధారణంగా,adv,,,,,,' name='అసాధారణంగా' posn='60'>
+	))
+5	((	CCP	<fs af=',,,,,,,' name='CCP2' drel='adv:VGF'>
+5.1	లేక	CC_CCD	<fs af='లేక,avy,,,,,,' name='లేక' posn='70'>
+	))
+6	((	NP	<fs name='NP3' drel='vmod:VGF'>
+6.1	ఏదైనా	PR_PRP	<fs af='ఏదైనా,pn,,,,d,0,0' name='ఏదైనా' posn='80'>
+	))
+7	((	RBP	<fs name='RBP' drel='ccof:CCP2'>
+7.1	చమత్కారంగా	RB	<fs af='చమత్కారంగా,adv,,,,,,' name='చమత్కారంగా' posn='90'>
+	))
+8	((	VGF	<fs af=',,,,,,,' name='VGF' drel='ccof:CCP' stype='declarative' voicetype='active'>
+8.1	జరుగుతుంది	V_VM_VF	<fs af='జరుగు,v,fn,sg,3,,తా,wA' name='జరుగుతుంది' posn='100'>
+	))
+9	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+9.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='110'>
+	))
+</Sentence>
+
+<Sentence id='138'>
+1	((	CCP	<fs af=',,,,,,,' name='CCP'>
+1.1	అనగా	CC_CCD	<fs af='అనగా,avy,,,,,0,0_avy' name='అనగా' posn='10'>
+	))
+2	((	CCP	<fs name='CCP2'>
+2.1	ఒకవేళ	CC_CCS	<fs af='ఒకవేళ,avy,,,,,0,0_avy' name='ఒకవేళ' posn='20'>
+	))
+3	((	RBP	<fs name='RBP' drel='adv:VGF'>
+3.1	సాధారణంగా	RB	<fs af='సాధారణం,n,fn,sg,3,o,గా,gA' name='సాధారణంగా' posn='30'>
+	))
+4	((	NP	<fs name='NP' drel='k1:VGNF'>
+4.1	ఎవరైతే	PR_PRL	<fs af='ఎవరైతే,pn,,,,d,0,0' name='ఎవరైతే' posn='40'>
+	))
+5	((	JJP	<fs name='JJP' drel='pof:VGNF'>
+5.1	కొంచెం	QT_QTF	<fs af='కొంచెం,avy,,,,,,' name='కొంచెం' posn='50'>
+	))
+6	((	VGNF	<fs name='VGNF' drel='nmod__relc:NP2'>
+6.1	అడుగుతారో	V_VM_VNF	<fs af='అడుగు,v,fm,pl,3,,తా,wA_o' name='అడుగుతారో' posn='60'>
+	))
+7	((	NP	<fs name='NP2' drel='k4:VGF'>
+7.1	వారికి	PR_PRP	<fs af='వారు,pn,any,pl,3,o,కి,ki' name='వారికి' posn='70'>
+	))
+8	((	RBP	<fs name='RBP2' drel='adv:VGF'>
+8.1	ఎల్లప్పుడు	RB	<fs af='ఎల్లప్పుడు,adv,,,,,0,0_adv' name='ఎల్లప్పుడు' posn='80'>
+	))
+9	((	JJP	<fs name='JJP2' drel='k2:VGF'>
+9.1	ఎక్కువగా	QT_QTF	<fs af='ఎక్కువగా,avy,,,,,,' name='ఎక్కువగా' posn='90'>
+	))
+10	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+10.1	లభిస్తుంది	V_VM_VF	<fs af='లభించు,v,fn,sg,3,,తా,wA' name='లభిస్తుంది' posn='100'>
+	))
+11	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+11.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='110'>
+	))
+</Sentence>
+
+<Sentence id='139'>
+1	((	JJP	<fs af=',,,,,,,' name='JJP' drel='vmod:VGNF'>
+1.1	ఇంత	QT_QTF	<fs af='ఇంత,avy,,,,,,' name='ఇంత' posn='10'>
+	))
+2	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+2.1	దొరికితే	V_VM_VNF	<fs af='దొరుకు,v,any,any,any,,తే,we' name='దొరికితే' posn='20'>
+	))
+3	((	NP	<fs name='NP' drel='k1:VGF'>
+3.1	మీరు	PR_PRP	<fs af='మీరు,pn,any,pl,2,d,0,0' name='మీరు' posn='30'>
+	))
+4	((	RBP	<fs name='RBP' drel='adv:VGF'>
+4.1	బాగా	RB	<fs af='బాగా,adv,,,,,,' name='బాగా' posn='40'>
+	))
+5	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+5.1	మునిగిపోతారు	V_VM_VF	<fs af='మునుగు,v,fm,pl,3,,ఇ_పో_తా,i_po_wA' name='మునిగిపోతారు' posn='50'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='60'>
+	))
+</Sentence>
+
+<Sentence id='140'>
+1	((	RBP	<fs af=',,,,,,,' name='RBP' drel='vmod:VGF'>
+1.1	ఇలానే	RB	<fs af='ఇలానే,adv,,,,,,' comment='Check???' name='ఇలానే' posn='10'>
+	))
+2	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+2.1	ఉంది	V_VM_VF	<fs af='ఉండు,v,fn,sg,3,,ఆ,A' name='ఉంది' posn='20'>
+	))
+3	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+3.1	తిజారా	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారా' posn='30'>
+3.2	క్షేత్రం	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,d,0,0' name='క్షేత్రం' posn='40'>
+	))
+4	((	NP	<fs af=',,,,,,,' name='NP2' drel='k1s:VGF'>
+4.1	గొప్పతనం	N_NN	<fs af='గొప్పతనం,n,fn,sg,3,d,0,0' name='గొప్పతనం'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='60'>
+	))
+</Sentence>
+
+<Sentence id='141'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:NULL__VGF'>
+1.1	తిజారా	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారా' posn='10'>
+	))
+2	((	RBP	<fs af=',,,,,,,' name='RBP' drel='vmod:VGNF'>
+2.1	అతిశయక్షేత్రంగా	RB	<fs af='అతిశయక్షేత్రంగా,adv,,,,,,' name='అతిశయక్షేత్రంగా' posn='20'>
+	))
+3	((	VGNF	<fs af=',,,,,,,' name='VGNF' drel='nmod__k2inv:NP2'>
+3.1	చెప్పబడిన	V_VM_VNF	<fs af='చెప్పబడు,v,any,any,any,,ఇన,ina' name='చెప్పబడిన' posn='30'>
+	))
+4	((	NP	<fs af=',,,,,,,' name='NP2' drel='k2:NULL__VGF'>
+4.1	దేవాలయం	N_NN	<fs af='దేవాలయం,n,fn,sg,3,d,0,0' name='దేవాలయం' posn='40'>
+	))
+5	((	NP	<fs af=',,,,,,,' name='NP3' drel='k5:NULL__VGF'>
+5.1	అలవర్	N_NNP	<fs af='అలవర్,n,fn,sg,3,d,0,0' name='అలవర్' posn='50'>
+5.2	జిల్లా	N_NN	<fs af='జిల్లా,n,fn,sg,3,d,0,0' name='జిల్లా' posn='60'>
+5.3	నుండి	PSP	<fs af='నుండి,psp,,,,,,' name='నుండి' posn='70'>
+	))
+6	((	NP	<fs af=',,,,,,,' name='NP4' drel='k7p:NULL__VGF'>
+6.1	52	QT_QTC	<fs af='52,num,,,,,,' name='52' posn='80'>
+6.2	కిలోమీటర్లు	N_NN	<fs af='కిలోమీటర్,n,fn,pl,3,d,0,0' name='కిలోమీటర్లు' posn='90'>
+	))
+7	((	NULL__VGF	<fs af=',,,,,,,' name='NULL__VGF' dmrel='ccof:CCP' voicetype='active' stype='declarative'>
+7.1	NULL	V_VM_VF	<fs af=',,,,,,,' name='NULL'>
+	))
+8	((	CCP	<fs af=',,,,,,,' name='CCP' drel='ccof:CCP2'>
+8.1	మరియు	CC_CCD	<fs af='మరియు,avy,,,,,0,0_avy' name='మరియు' posn='100'>
+	))
+9	((	NP	<fs af=',,,,,,,' name='NP5' drel='k5:VGF'>
+9.1	ఢిల్లీ	N_NNP	<fs af='ఢిల్లీ,n,fn,sg,3,d,0,0' name='ఢిల్లీ' posn='110'>
+9.2	నుండి	PSP	<fs af='నుండి,psp,,,,,,' name='నుండి2' posn='120'>
+	))
+10	((	NP	<fs af=',,,,,,,' name='NP6' drel='k7p:VGF'>
+10.1	117	QT_QTC	<fs af='117,num,,,,,,' name='117' posn='130'>
+10.2	కిలోమీటర్ల	N_NN	<fs af='కిలోమీటర్,n,fn,pl,3,o,టి,ti' name='కిలోమీటర్ల' posn='140'>
+10.3	దూరంలో	N_NST	<fs af='దూరం,n,fn,sg,3,o,లో,lo' name='దూరంలో' posn='150'>
+	))
+11	((	VGF	<fs af=',,,,,,,' name='VGF' drel='ccof:CCP' voicetype='passive' stype='declarative'>
+11.1	ఉన్నది	V_VM_VF	<fs af='ఉండు,v,fn,sg,3,,ఆ,A' deri_cat='n' name='ఉన్నది' posn='160'>
+	))
+12	((	CCP	<fs af=',,,,,,,' name='CCP2' drel='UNDEF:VGF2'>
+12.1	అని	CC_CCS_UT	<fs af='అని,avy,,,,,0,0_avy' name='అని' posn='170'>
+	))
+13	((	VGF	<fs af=',,,,,,,' name='VGF2' stype='declarative' voicetype='passive'>
+13.1	చెప్పబడింది	V_VM_VF	<fs af='చెప్పబడు,v,fn,sg,3,,ఆ,A' name='చెప్పబడింది' posn='180'>
+	))
+14	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF2'>
+14.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='190'>
+	))
+</Sentence>
+
+<Sentence id='142'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	తిజారా	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారా' posn='10'>
+1.2	అతిశయ	JJ	<fs af='అతిశయ,adj,,,,d,0,0' name='అతిశయ' posn='20'>
+1.3	క్షేత్రంలో	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,o,లో,lo' name='క్షేత్రంలో' posn='30'>
+	))
+2	((	NP	<fs name='NP2' drel='nmod:NP3'>
+2.1	24	QT_QTC	<fs af='24,num,,,,,,' name='24' posn='40'>
+2.2	మంది	RP_CL	<fs af='మంది,avy,,,,,,' name='మంది' posn='50'>
+2.3	తీర్థంకరులలో	N_NN	<fs af='తీర్థంకరులు,n,any,pl,3,o,లో,lo' name='తీర్థంకరులలో' posn='60'>
+2.4	నుండి	PSP	<fs af='నుండి,psp,,,,,,' name='నుండి' posn='70'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	8వ	QT_QTO	<fs af='8వ,num,,,,,,' name='8వ' posn='80'>
+3.2	తీర్థంకరుడు	N_NN	<fs af='తీర్థంకరుడు,n,m,sg,3,d,0,0' name='తీర్థంకరుడు' posn='90'>
+3.3	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='100'>
+3.4	శ్రీచంద్ర	N_NNP	<fs af='శ్రీచంద్ర,n,m,sg,3,d,0,0' name='శ్రీచంద్ర' posn='110'>
+3.5	ప్రభువు	N_NN	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='120'>
+3.6	భగవానుని	N_NN	<fs af='భగవాన్,n,m,sg,3,o,ని,ni' name='భగవానుని' posn='130'>
+	))
+4	((	NP	<fs name='NP4' drel='k2:VGF'>
+4.1	ఆరాధన	N_NN	<fs af='ఆరాధన,n,fn,sg,3,d,0,0' name='ఆరాధన' posn='140'>
+	))
+5	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='passive' stype='declarative'>
+5.1	చేయబడుతుంది	V_VM_VF	<fs af='చేయబడు,v,fn,sg,3,,తా,wA' name='చేయబడుతుంది' posn='150'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='160'>
+	))
+</Sentence>
+
+<Sentence id='143'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	తిజారా	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారా' posn='10'>
+1.2	అతిశయ	JJ	<fs af='అతిశయ,adj,,,,d,0,0' name='అతిశయ' posn='20'>
+1.3	క్షేత్రంలో	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,o,లో,lo' name='క్షేత్రంలో' posn='30'>
+	))
+2	((	NP	<fs name='NP2' drel='nmod:NP3'>
+2.1	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='40'>
+2.2	చంద్ర	N_NNP	<fs af='చంద్ర,n,m,sg,3,o,టి,ti' name='చంద్ర' posn='50'>
+2.3	ప్రభువు	N_NNP	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='60'>
+	))
+3	((	NP	<fs name='NP3' drel='k2:VGF'>
+3.1	తెల్లటి	JJ	<fs af='తెల్లటి,adj,,,,d,0,0' deri_cat='n' name='తెల్లటి' posn='70'>
+3.2	అత్యంత	RP_INTF	<fs af='అత్యంత,avy,,,,,,' name='అత్యంత' posn='80'>
+3.3	మనోహర	JJ	<fs af='మనోహర,adj,,,,d,0,0' name='మనోహర' posn='90'>
+3.4	చలువరాయి	N_NN	<fs af='చలువరాయి,n,fn,sg,3,d,0,0' name='చలువరాయి' posn='100'>
+3.5	విగ్రహం	N_NN	<fs af='విగ్రహం,n,fn,sg,3,d,0,0' name='విగ్రహం' posn='110'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='passive' stype='declarative'>
+4.1	స్థాపించబడినది	V_VM_VF	<fs af='స్థాపించు,v,fn,sg,3,,అ_బడు,a_badu' name='స్థాపించబడినది' posn='120'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='130'>
+	))
+</Sentence>
+
+<Sentence id='144'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGF'>
+1.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='10'>
+1.2	విగ్రహం	N_NN	<fs af='విగ్రహం,n,fn,sg,3,d,0,0' name='విగ్రహం' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k7p:VGF'>
+2.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ2' posn='30'>
+2.2	క్షేత్రంలో	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,o,లో,lo' name='క్షేత్రంలో' posn='40'>
+	))
+3	((	VGNF	<fs name='VGNF' drel='nmod__k1inv:NP3'>
+3.1	జరపబడిన	V_VM_VNF	<fs af='జరుపు,v,any,any,any,,అ_బడు_ఇన,a_badu_ina' name='జరపబడిన' posn='50'>
+	))
+4	((	NP	<fs name='NP3' drel='rh:VGF'>
+4.1	త్రవ్వకాల	N_NN	<fs af='త్రవ్వకం,n,fn,pl,3,o,టి,ti' name='త్రవ్వకాల' posn='60'>
+4.2	ఫలితంగా	PSP	<fs af='ఫలితంగా,psp,,,,,,' name='ఫలితంగా' posn='70'>
+	))
+5	((	NP	<fs name='NP4' drel='k7t:VGF'>
+5.1	16	QT_QTC	<fs af='16,num,,,,,,' name='16' posn='80'>
+5.2	ఆగష్టు	N_NN	<fs af='ఆగష్టు,n,fn,sg,3,d,0,0' name='ఆగష్టు' posn='90'>
+5.3	1956	N_NN	<fs af='1956,n,fn,sg,3,d,0,0' name='1956' posn='100'>
+5.4	లో	PSP	<fs af='లో,psp,,,,,,' name='లో' posn='110'>
+	))
+6	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+6.1	బయటపడింది	V_VM_VF	<fs af='బయటపడు,v,fn,sg,3,,ఆ,A' name='బయటపడింది' posn='120'>
+	))
+7	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+7.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='130'>
+	))
+</Sentence>
+
+<Sentence id='145'>
+1	((	VGF	<fs af=',,,,,,,' name='VGF'>
+1.1	చెప్పబడుతున్నది	V_VM_VF	<fs af='చెప్పబడు,v,fn,sg,3,,తున్న,wunna' name='చెప్పబడుతున్నది' posn='10'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP' drel='k2:VGF'>
+2.1	ఏమిటి	PR_PRQ	<fs af='ఏమిటి,pn,,,,d,0,0' name='ఏమిటి' posn='20'>
+	))
+3	((	CCP	<fs af=',,,,,,,' name='CCP' drel='rs:NP'>
+3.1	అంటే	CC_CCD	<fs af='అంటే,avy,,,,,,' name='అంటే' posn='30'>
+	))
+4	((	NP	<fs name='NP2' drel='k7p:VGF2'>
+4.1	తిజారా	N_NNP	<fs af='తిజారా,n,fn,sg,3,d,0,0' name='తిజారా' posn='40'>
+4.2	క్షేత్రంలో	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,o,లో,lo' name='క్షేత్రంలో' posn='50'>
+	))
+5	((	NP	<fs name='NP3' drel='pof:VGNF'>
+5.1	ఒక	QT_QTC	<fs af='ఒక,num,,,,,,' deri_cat='n' name='ఒక' posn='60'>
+5.2	ప్రసిద్ధి	N_NN	<fs af='ప్రసిద్ధి,n,fn,sg,3,d,0,0' name='ప్రసిద్ధి' posn='70'>
+	))
+6	((	VGNF	<fs name='VGNF' drel='nmod__k1inv:NP4'>
+6.1	చెందిన	V_VM_VNF	<fs af='చెందు,v,any,any,any,,ఇన,ina' name='చెందిన' posn='80'>
+	))
+7	((	NP	<fs name='NP4' drel='nmod:NP5'>
+7.1	వైద్యుడు	N_NN	<fs af='వైద్యుడు,n,m,sg,3,d,0,0' name='వైద్యుడు' posn='90'>
+7.2	బిహారిలాల్	N_NNP	<fs af='బిహారిలాల్,n,m,sg,3,d,0,0' name='బిహారిలాల్' posn='100'>
+	))
+8	((	NP	<fs name='NP5' drel='nmod:NP6'>
+8.1	భార్య	N_NN	<fs af='భార్య,n,f,sg,3,d,0,0' name='భార్య' posn='110'>
+	))
+9	((	NP	<fs name='NP6' drel='k1:VGF2'>
+9.1	సరస్వతీదేవి	N_NNP	<fs af='సరస్వతీదేవి,n,f,sg,3,d,0,0' name='సరస్వతీదేవి' posn='120'>
+	))
+10	((	NP	<fs name='NP7' drel='k7t:VGF2'>
+10.1	మూడు	QT_QTC	<fs af='మూడు,num,,,,,,' name='మూడు' posn='130'>
+10.2	రోజులు	N_NN	<fs af='రోజు,n,fn,pl,3,d,0,0' name='రోజులు' posn='140'>
+	))
+11	((	NP	<fs name='NP8' drel='pof:VGF2'>
+11.1	ఉపవాసం	N_NN	<fs af='ఉపవాసం,n,fn,sg,3,d,0,0' name='ఉపవాసం' posn='150'>
+	))
+12	((	VGF	<fs af=',,,,,,,' name='VGF2' stype='declarative' voicetype='active' drel='ccof:CCP'>
+12.1	ఉండెను	V_VM_VF	<fs af='ఉండు,v,n,any,3,,ఇతి,iwi' name='ఉండెను' posn='160'>
+	))
+13	((	BLK	<fs name='BLK' drel='rsym:VGF2'>
+13.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='170'>
+	))
+</Sentence>
+
+<Sentence id='146'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7t:VGF'>
+1.1	మరుసటి	N_NN	<fs af='మరుసటి,n,fn,sg,3,d,0,0' name='మరుసటి' posn='10'>
+1.2	ఉదయం	N_NN	<fs af='ఉదయం,n,fn,sg,3,d,0,0' name='ఉదయం' posn='20'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='k7t:VGF'>
+2.1	అప్పుడు	PR_PRP	<fs af='అప్పుడు,pn,,,,d,0,0' name='అప్పుడు' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGF'>
+3.1	ఆ	DM_DMD	<fs af='ఆ,pn,,,,,,' name='ఆ' posn='40'>
+3.2	ప్రదేశంలో	N_NN	<fs af='ప్రదేశం,n,fn,sg,3,o,లో,lo' name='ప్రదేశంలో' posn='50'>
+	))
+4	((	NP	<fs af=',,,,,,,' name='NP4' drel='k2:VGF'>
+4.1	త్రవ్వకాలు	N_NN	<fs af='త్రవ్వకం,n,fn,pl,3,d,0,0' name='త్రవ్వకాలు' posn='60'>
+	))
+5	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='passive' stype='declarative'>
+5.1	జరుపబడ్డాయి	V_VM_VF	<fs af='జరుపబడు,v,any,pl,3,,ఆ,A' name='జరుపబడ్డాయి' posn='70'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='80'>
+	))
+</Sentence>
+
+<Sentence id='147'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7p:VGF'>
+1.1	అక్కడ	PR_PRP	<fs af='అక్కడ,pn,,,,d,0,0' name='అక్కడ' posn='10'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='r6:NP3'>
+2.1	చంద్ర	N_NNP	<fs af='చంద్ర,n,m,sg,3,o,టి,ti' name='చంద్ర' posn='20'>
+2.2	ప్రభువు	N_NN	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='30'>
+2.3	భగవంతుని	N_NN	<fs af='భగవంతుడు,n,m,sg,3,o,టి,ti' name='భగవంతుని' posn='40'>
+	))
+3	((	NP	<fs af=',,,,,,,' name='NP3' drel='k1:VGF'>
+3.1	భవ్యమైన	JJ	<fs af='భవ్యమైన,adj,,,,d,0,0' name='భవ్యమైన' posn='50'>
+3.2	విగ్రహం	N_NN	<fs af='విగ్రహం,n,fn,sg,3,d,0,0' name='విగ్రహం' posn='60'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+4.1	లభించింది	V_VM_VF	<fs af='లభించు,v,fn,sg,3,,ఆ,A' name='లభించింది' posn='70'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='80'>
+	))
+</Sentence>
+
+<Sentence id='148'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='rh:VGF'>
+1.1	త్రవ్వకాల	N_NN	<fs af='త్రవ్వకం,n,fn,pl,3,o,టి,ti' name='త్రవ్వకాల' posn='10'>
+1.2	ఫలితంగా	PSP	<fs af='ఫలితంగా,psp,,,,,,' name='ఫలితంగా' posn='20'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP2' drel='k7t:VGF'>
+2.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='30'>
+2.2	సమయంలో	N_NN	<fs af='సమయం,n,fn,sg,3,o,లో,lo' name='సమయంలో' posn='40'>
+	))
+3	((	NP	<fs name='NP3' drel='k2:VGF'>
+3.1	విగ్రహం	N_NN	<fs af='విగ్రహం,n,fn,sg,3,d,0,0' name='విగ్రహం' posn='50'>
+	))
+4	((	NP	<fs af=',,,,,,,' name='NP4' drel='k7p:VGF'>
+4.1	బయటకు	N_NST	<fs af='బయటకు,nst,,,,d,0,0' name='బయటకు' posn='60'>
+	))
+5	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+5.1	తీయబడింది	V_VM_VF	<fs af='తీయబడు,v,fn,sg,3,,ఆ,A' name='తీయబడింది' posn='70'>
+	))
+6	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='80'>
+	))
+</Sentence>
+
+<Sentence id='149'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k7:VGF'>
+1.1	భక్త	N_NN	<fs af='భక్తులు,n,any,pl,3,o,టి,ti' name='భక్త' posn='10'>
+1.2	జనసందోహంలో	N_NN	<fs af='జనసందోహం,n,fn,sg,3,o,లో,lo' name='జనసందోహంలో' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	దీని	PR_PRP	<fs af='ఇది,pn,fn,sg,3,o,టి,ti' name='దీని' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k1:VGF'>
+3.1	అర్థం	N_NN	<fs af='అర్థం,n,fn,sg,3,o,టి,ti' name='అర్థం' posn='40'>
+	))
+4	((	NP	<fs name='NP4' drel='adv:VGF'>
+4.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='50'>
+4.2	విధంగా	N_NN	<fs af='విధం,n,fn,sg,3,o,గా,gA' name='విధంగా' posn='60'>
+	))
+5	((	VGF	<fs af=',,,,,,,' name='VGF' voicetype='active' stype='declarative'>
+5.1	వెలువడింది	V_VM_VF	<fs af='వెలువడు,v,fn,sg,3,,ఆ,A' name='వెలువడింది' posn='70'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='80'>
+	))
+</Sentence>
+
+<Sentence id='150'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='adv:VGF'>
+1.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='10'>
+1.2	విధంగా	N_NN	<fs af='విధం,n,fn,sg,3,o,గా,gA' name='విధంగా' posn='20'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	ప్రకృతి	N_NN	<fs af='ప్రకృతి,n,fn,sg,3,d,0,0' name='ప్రకృతి' posn='30'>
+	))
+3	((	NP	<fs name='NP3' drel='k2:VGF'>
+3.1	విగ్రహానికి	N_NN	<fs af='విగ్రహం,n,fn,sg,3,o,కి,ki' name='విగ్రహానికి' posn='40'>
+	))
+4	((	NP	<fs name='NP4' drel='vmod:VGNF'>
+4.1	జలాభిషేకం	N_NN	<fs af='జలాభిషేకం,n,fn,sg,3,d,0,0' name='జలాభిషేకం' posn='50'>
+	))
+5	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+5.1	చేసి	V_VM_VNF	<fs af='చెయ్యి,v,any,any,any,,ఇ,i' name='చేసి' posn='60'>
+	))
+6	((	NP	<fs name='NP5' drel='k2s:VGF'>
+6.1	దానిని	PR_PRP	<fs af='అది,pn,fn,sg,3,o,ని,ni' name='దానిని' posn='70'>
+	))
+7	((	NP	<fs name='NP6' drel='pof:VGF'>
+7.1	పవిత్రం	N_NN	<fs af='పవిత్రం,n,fn,sg,3,d,0,0' name='పవిత్రం' posn='80'>
+	))
+8	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+8.1	చేసింది	V_VM_VF	<fs af='చెయ్యి,v,fn,sg,3,,ఆ,A' name='చేసింది' posn='90'>
+	))
+9	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+9.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='100'>
+	))
+</Sentence>
+
+<Sentence id='151'>
+1	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGNF'>
+1.1	ఈ	DM_DMD	<fs af='ఈ,pn,,,,,,' name='ఈ' posn='10'>
+1.2	సంఘటన	N_NN	<fs af='సంఘటన,n,fn,sg,3,d,0,0' name='సంఘటన' posn='20'>
+	))
+2	((	VGNF	<fs name='VGNF' drel='nmod:NP2'>
+2.1	జరిగిన	V_VM_VNF	<fs af='జరుగు,v,any,any,any,,ఇన,ina' name='జరిగిన' posn='30'>
+	))
+3	((	NP	<fs name='NP2' drel='k7t:VGF'>
+3.1	చాలా	QT_QTF	<fs af='చాలా,avy,,,,,0,0_avy' name='చాలా' posn='40'>
+3.2	సంవత్సరాల	N_NN	<fs af='సంవత్సరం,n,fn,pl,3,o,టి,ti' name='సంవత్సరాల' posn='50'>
+3.3	తర్వాత	N_NST	<fs af='తర్వాత,nst,,,,d,0,0' name='తర్వాత' posn='60'>
+	))
+4	((	NP	<fs name='NP3' drel='k7p:VGF'>
+4.1	అదే	PR_PRP	<fs af='అది,pn,fn,sg,3,d,0,0_e' name='అదే' posn='70'>
+4.2	క్షేత్రంలో	N_NN	<fs af='క్షేత్రం,n,fn,sg,3,o,లో,lo' name='క్షేత్రంలో' posn='80'>
+	))
+5	((	NP	<fs name='NP4' drel='k7t:VGF'>
+5.1	29	QT_QTC	<fs af='29,num,,,,,,' name='29' posn='90'>
+5.2	మార్చి	N_NNP	<fs af='మార్చి,n,fn,sg,3,d,0,0' name='మార్చి' posn='100'>
+5.3	,	RD_PUNC	<fs af='&comma;,punc,,,,,,' name=',' posn='110'>
+5.4	1972	N_NN	<fs af='1972,n,fn,sg,3,d,0,0' name='1972' posn='120'>
+5.5	లో	PSP	<fs af='లో,psp,,,,,,' name='లో' posn='130'>
+	))
+6	((	NP	<fs name='NP5' drel='nmod:NP8'>
+6.1	భగవంతుడు	N_NN	<fs af='భగవంతుడు,n,m,sg,3,d,0,0' name='భగవంతుడు' posn='140'>
+6.2	చంద్ర	N_NNP	<fs af='చంద్ర,n,m,sg,3,o,టి,ti' name='చంద్ర' posn='150'>
+6.3	ప్రభువు	N_NN	<fs af='ప్రభువు,n,m,sg,3,d,0,0' name='ప్రభువు' posn='160'>
+	))
+7	((	NP	<fs name='NP6' drel='nmod:NP8'>
+7.1	నల్లనిరంగు	N_NN	<fs af='నల్లనిరంగు,n,fn,sg,3,d,0,0' name='నల్లనిరంగు' posn='170'>
+	))
+8	((	NP	<fs name='NP7' drel='k7:VGNF2'>
+8.1	పద్మాసనం	N_NN	<fs af='పద్మాసనం,n,fn,sg,3,d,0,0' name='పద్మాసనం' posn='180'>
+8.2	ముద్రలో	N_NN	<fs af='ముద్ర,n,fn,sg,3,o,లో,lo' name='ముద్రలో' posn='190'>
+	))
+9	((	VGNF	<fs name='VGNF2' drel='nmod__k1inv:NP8'>
+9.1	ఉన్న	V_VM_VNF	<fs af='ఉండు,v,any,any,any,,ఇన,ina' name='ఉన్న' posn='200'>
+	))
+10	((	NP	<fs name='NP8' drel='k1:VGF'>
+10.1	మరొక	QT_QTF	<fs af='మరొక,avy,,,,,,' name='మరొక' posn='210'>
+10.2	విగ్రహం	N_NN	<fs af='విగ్రహం,n,fn,sg,3,d,0,0' name='విగ్రహం' posn='220'>
+	))
+11	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active'>
+11.1	లభించింది	V_VM_VF	<fs af='లభించు,v,fn,sg,3,,ఆ,A' name='లభించింది' posn='230'>
+	))
+12	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+12.1	.	RD_PUNC	<fs af='&dot;,punc,,,,,,' name='.' posn='240'>
+	))
+</Sentence>
+
+</document>

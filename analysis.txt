@@ -1,0 +1,351 @@
+  Labeled   attachment score: 910 / 1352 * 100 = 67.31 %
+  Unlabeled attachment score: 1238 / 1352 * 100 = 91.57 %
+  Label accuracy score:       922 / 1352 * 100 = 68.20 %
+
+  ================================================================================
+
+  Evaluation of the results in parser_output_models/04:48PM-January02,2020_predicted.conll
+  vs. gold standard parser_output_models/04:48PM-January02,2020_gold.conll:
+
+  Legend: '.S' - the beginning of a sentence, '.E' - the end of a sentence
+
+  Number of non-scoring tokens: 0
+
+  The overall accuracy and its distribution over CPOSTAGs
+
+  -----------+-------+-------+------+-------+------+-------+-------
+  Accuracy   | words | right |   %  | right |   %  | both  |   %
+             |       | head  |      |  dep  |      | right |
+  -----------+-------+-------+------+-------+------+-------+-------
+  total      |  1352 |  1238 |  92% |   922 |  68% |   910 |  67%
+  -----------+-------+-------+------+-------+------+-------+-------
+  _          |  1352 |  1238 |  92% |   922 |  68% |   910 |  67%
+  -----------+-------+-------+------+-------+------+-------+-------
+
+
+  The overall error rate and its distribution over CPOSTAGs
+
+  -----------+-------+-------+------+-------+------+-------+-------
+  Error      | words | head  |   %  |  dep  |   %  | both  |   %
+  Rate       |       | err   |      |  err  |      | wrong |
+  -----------+-------+-------+------+-------+------+-------+-------
+  total      |  1352 |   114 |   8% |   430 |  32% |   102 |   8%
+  -----------+-------+-------+------+-------+------+-------+-------
+  _          |  1352 |   114 |   8% |   430 |  32% |   102 |   8%
+  -----------+-------+-------+------+-------+------+-------+-------
+
+
+  Precision and recall of DEPREL
+
+  ----------------+------+---------+--------+------------+---------------
+  deprel          | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  _               |    0 |       0 |      5 |        NaN |          0.00
+  adv             |   62 |      38 |     55 |      61.29 |         69.09
+  ccof            |   65 |      38 |     46 |      58.46 |         82.61
+  k1              |  243 |     181 |    299 |      74.49 |         60.54
+  k1s             |   14 |       3 |     12 |      21.43 |         25.00
+  k1u             |    0 |       0 |      1 |        NaN |          0.00
+  k2              |  187 |     116 |    209 |      62.03 |         55.50
+  k2g             |    0 |       0 |      1 |        NaN |          0.00
+  k2p             |    6 |       0 |      4 |       0.00 |          0.00
+  k2s             |    1 |       0 |      0 |       0.00 |           NaN
+  k3              |    6 |       4 |      5 |      66.67 |         80.00
+  k4              |   51 |      18 |     34 |      35.29 |         52.94
+  k4a             |   10 |       2 |      3 |      20.00 |         66.67
+  k5              |   11 |       0 |      1 |       0.00 |          0.00
+  k7              |    7 |       0 |      7 |       0.00 |          0.00
+  k7p             |   52 |      30 |     50 |      57.69 |         60.00
+  k7t             |   57 |      35 |     50 |      61.40 |         70.00
+  nmod            |   18 |      10 |     26 |      55.56 |         38.46
+  nmod__relc      |    4 |       0 |      0 |       0.00 |           NaN
+  pk1             |    1 |       0 |      0 |       0.00 |           NaN
+  pof             |   30 |      11 |     25 |      36.67 |         44.00
+  r6              |   33 |      15 |     21 |      45.45 |         71.43
+  r6v             |    1 |       0 |      0 |       0.00 |           NaN
+  ras             |    6 |       0 |      0 |       0.00 |           NaN
+  ras-k2          |    1 |       0 |      0 |       0.00 |           NaN
+  rbmod           |    1 |       0 |      0 |       0.00 |           NaN
+  rbmod__relc     |    1 |       0 |      0 |       0.00 |           NaN
+  rh              |   12 |       1 |      7 |       8.33 |         14.29
+  root            |  399 |     380 |    396 |      95.24 |         95.96
+  rsp             |    1 |       0 |      0 |       0.00 |           NaN
+  rt              |    7 |       0 |      1 |       0.00 |          0.00
+  sent-adv        |    6 |       1 |      1 |      16.67 |        100.00
+  vmod            |   59 |      39 |     93 |      66.10 |         41.94
+
+
+  Precision and recall of DEPREL + ATTACHMENT
+
+  ----------------+------+---------+--------+------------+---------------
+  deprel          | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  _               |    0 |       0 |      5 |        NaN |          0.00
+  adv             |   62 |      38 |     55 |      61.29 |         69.09
+  ccof            |   65 |      38 |     46 |      58.46 |         82.61
+  k1              |  243 |     176 |    299 |      72.43 |         58.86
+  k1s             |   14 |       3 |     12 |      21.43 |         25.00
+  k1u             |    0 |       0 |      1 |        NaN |          0.00
+  k2              |  187 |     114 |    209 |      60.96 |         54.55
+  k2g             |    0 |       0 |      1 |        NaN |          0.00
+  k2p             |    6 |       0 |      4 |       0.00 |          0.00
+  k2s             |    1 |       0 |      0 |       0.00 |           NaN
+  k3              |    6 |       4 |      5 |      66.67 |         80.00
+  k4              |   51 |      17 |     34 |      33.33 |         50.00
+  k4a             |   10 |       2 |      3 |      20.00 |         66.67
+  k5              |   11 |       0 |      1 |       0.00 |          0.00
+  k7              |    7 |       0 |      7 |       0.00 |          0.00
+  k7p             |   52 |      29 |     50 |      55.77 |         58.00
+  k7t             |   57 |      34 |     50 |      59.65 |         68.00
+  nmod            |   18 |      10 |     26 |      55.56 |         38.46
+  nmod__relc      |    4 |       0 |      0 |       0.00 |           NaN
+  pk1             |    1 |       0 |      0 |       0.00 |           NaN
+  pof             |   30 |      11 |     25 |      36.67 |         44.00
+  r6              |   33 |      15 |     21 |      45.45 |         71.43
+  r6v             |    1 |       0 |      0 |       0.00 |           NaN
+  ras             |    6 |       0 |      0 |       0.00 |           NaN
+  ras-k2          |    1 |       0 |      0 |       0.00 |           NaN
+  rbmod           |    1 |       0 |      0 |       0.00 |           NaN
+  rbmod__relc     |    1 |       0 |      0 |       0.00 |           NaN
+  rh              |   12 |       1 |      7 |       8.33 |         14.29
+  root            |  399 |     380 |    396 |      95.24 |         95.96
+  rsp             |    1 |       0 |      0 |       0.00 |           NaN
+  rt              |    7 |       0 |      1 |       0.00 |          0.00
+  sent-adv        |    6 |       1 |      1 |      16.67 |        100.00
+  vmod            |   59 |      37 |     93 |      62.71 |         39.78
+
+
+  Precision and recall of binned HEAD direction
+
+  ----------------+------+---------+--------+------------+---------------
+  direction       | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  to_root         |  399 |     382 |    401 |      95.74 |         95.26
+  left            |   31 |      17 |     25 |      54.84 |         68.00
+  right           |  922 |     911 |    926 |      98.81 |         98.38
+  self            |    0 |       0 |      0 |        NaN |           NaN
+
+
+  Precision and recall of binned HEAD distance
+
+  ----------------+------+---------+--------+------------+---------------
+  distance        | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  to_root         |  399 |     382 |    401 |      95.74 |         95.26
+  1               |  578 |     535 |    556 |      92.56 |         96.22
+  2               |  264 |     233 |    260 |      88.26 |         89.62
+  3-6             |  110 |      98 |    133 |      89.09 |         73.68
+  7-...           |    1 |       1 |      2 |     100.00 |         50.00
+
+
+  Frame confusions (gold versus system; *...* marks the head token)
+
+   11  *root* ccof / *root* 
+    7  k2 *root* / k1 *root* 
+
+
+  6 focus words where most of the errors occur:
+
+              | any  | head | dep  | both
+  ------------+------+------+------+------
+  ani / _     |   12 |    3 |   11 |    2
+  NULL / _    |    9 |    3 |    9 |    3
+  aMxuke / _  |    6 |    3 |    6 |    3
+  rama / _    |    5 |    3 |    5 |    3
+  neVlalu / _ |    5 |    1 |    5 |    1
+  ramaku / _  |    5 |    0 |    5 |    0
+  ------------+------+------+------+------
+
+
+  one-token preceeding contexts where most of the errors occur:
+
+  CPOS  | any  | head | dep  | both  ||  word             | any  | head | dep  | both
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+  _     |  278 |   67 |  273 |   62  ||  ani / _          |   10 |    3 |   10 |    3
+        |      |      |      |       ||  NULL / _         |    8 |    6 |    8 |    6
+        |      |      |      |       ||  rama / _         |    6 |    0 |    6 |    0
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+
+
+  two-token preceeding contexts where most of the errors occur:
+
+  CPOS  | any  | head | dep  | both  ||  word             | any  | head | dep  | both
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+  .S+.S |  164 |   47 |  157 |   40  ||  .S + ani / _     |    4 |    1 |    4 |    1
+  _+_   |  146 |   42 |  143 |   39  ||  .S + somulu / _  |    4 |    0 |    4 |    0
+  .S+_  |  132 |   25 |  130 |   23  ||  .S + bidda / _   |    4 |    1 |    4 |    1
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+
+
+  one-token following contexts where most of the errors occur:
+
+  CPOS  | any  | head | dep  | both  ||  word             | any  | head | dep  | both
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+  _     |  423 |   95 |  411 |   83  ||  NULL / _         |   11 |    2 |   11 |    2
+        |      |      |      |       ||  uMdAli / _       |    7 |    2 |    7 |    2
+        |      |      |      |       ||  uMtuMxi / _      |    6 |    0 |    6 |    0
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+
+
+  two-token following contexts where most of the errors occur:
+
+  CPOS  | any  | head | dep  | both  ||  word             | any  | head | dep  | both
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+  _+_   |  244 |   86 |  232 |   74  ||  uMdAli / _ + .E  |    7 |    2 |    7 |    2
+  _+.E  |  179 |    9 |  179 |    9  ||  NULL / _ + .E    |    7 |    0 |    7 |    0
+  .E+.E |   19 |   19 |   19 |   19  ||  uMtuMxi / _ + .E |    5 |    0 |    5 |    0
+  ------+------+------+------+-------++-------------------+------+------+------+-----
+
+
+  Sentence with the highest number of word errors:
+   Sentence 374 line 1616, 5 head errors, 3 dependency errors, 6 word errors
+
+
+  Sentence with the highest number of head errors:
+   Sentence 374 line 1616, 5 head errors, 3 dependency errors, 6 word errors
+
+
+  Sentence with the highest number of dependency errors:
+   Sentence 397 line 1733, 3 head errors, 6 dependency errors, 6 word errors
+
+
+  Specific errors, 11 most frequent errors:
+  =========================================
+
+   1. correct head (after the focus word), dependency "k1" instead of "k2" : 36 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |  36
+  _    |      | _    |      | _    |          |  28
+  -----+------+------+------+------+----------+------
+
+   2. correct head (after the focus word), dependency "k2" instead of "k1" : 29 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |  29
+  _    |      | _    |      | _    |          |  20
+  -----+------+------+------+------+----------+------
+
+   3. correct head (after the focus word), dependency "k2" instead of "k4" : 13 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |  13
+  _    |      | _    |      | _    |          |  10
+  -----+------+------+------+------+----------+------
+
+   4. head = 0 instead of before the focus word, dependency "root" instead of "ccof" : 11 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+  _    |      | _    |      | .E   | .E       |  11
+  -----+------+------+------+------+----------+------
+
+   5. correct head (after the focus word), dependency "k2" instead of "vmod" : 9 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |   9
+  _    |      | _    | ani  | _    |          |   7
+  -----+------+------+------+------+----------+------
+
+   6. correct head (after the focus word), dependency "k2" instead of "pof" : 9 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |   9
+  _    |      | _    |      | _    |          |   8
+  -----+------+------+------+------+----------+------
+
+   7. correct head (after the focus word), dependency "k1" instead of "k4" : 9 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |   9
+  _    |      | _    |      | _    |          |   7
+  -----+------+------+------+------+----------+------
+
+   8. correct head (after the focus word), dependency "vmod" instead of "k2" : 9 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+  _    |      | _    |      | _    |          |   9
+  _    |      | _    | uMxo | _    |          |   2
+  _    |      | _    |      | _    | cUdAlani |   2
+  -----+------+------+------+------+----------+------
+
+   9. head one word after the correct head (after the focus word), dependency "k1" instead of "r6" : 9 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |   9
+  _    |      | _    |      | _    |          |   6
+  -----+------+------+------+------+----------+------
+
+  10. correct head (after the focus word), dependency "k1" instead of "pof" : 8 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |   8
+  _    |      | _    |      | _    |          |   5
+  -----+------+------+------+------+----------+------
+
+  11. correct head (after the focus word), dependency "k7p" instead of "k5" : 8 times
+  -----+------+------+------+------+----------+------
+    Before    |    Focus    |   After         | Count
+  CPOS   word | CPOS   word | CPOS   word     |
+  -----+------+------+------+------+----------+------
+       |      | _    |      | _    |          |   8
+  _    |      | _    |      | _    |          |   4
+  .S   | .S   | _    |      | _    |          |   4
+  -----+------+------+------+------+----------+------
+
+
+  Local contexts involved in several frequent errors:
+  ===================================================
+
+
+  -----+------+------+------+------+----------
+    Before    |    Focus    |   After         
+  CPOS   word | CPOS   word | CPOS   word     
+  -----+------+------+------+------+----------
+       |      | _    |      | _    |          
+  -----+------+------+------+------+----------
+   1. correct head (after the focus word), dependency "k1" instead of "k2" : 36 times
+   2. correct head (after the focus word), dependency "k2" instead of "k1" : 29 times
+   3. correct head (after the focus word), dependency "k2" instead of "k4" : 13 times
+   9. head one word after the correct head (after the focus word), dependency "k1" instead of "r6" : 9 times
+   5. correct head (after the focus word), dependency "k2" instead of "vmod" : 9 times
+   7. correct head (after the focus word), dependency "k1" instead of "k4" : 9 times
+   6. correct head (after the focus word), dependency "k2" instead of "pof" : 9 times
+  10. correct head (after the focus word), dependency "k1" instead of "pof" : 8 times
+  11. correct head (after the focus word), dependency "k7p" instead of "k5" : 8 times
+
+  -----+------+------+------+------+----------
+    Before    |    Focus    |   After         
+  CPOS   word | CPOS   word | CPOS   word     
+  -----+------+------+------+------+----------
+  _    |      | _    |      | _    |          
+  -----+------+------+------+------+----------
+   1. correct head (after the focus word), dependency "k1" instead of "k2" : 28 times
+   2. correct head (after the focus word), dependency "k2" instead of "k1" : 20 times
+   3. correct head (after the focus word), dependency "k2" instead of "k4" : 10 times
+   8. correct head (after the focus word), dependency "vmod" instead of "k2" : 9 times
+   6. correct head (after the focus word), dependency "k2" instead of "pof" : 8 times
+   7. correct head (after the focus word), dependency "k1" instead of "k4" : 7 times
+   9. head one word after the correct head (after the focus word), dependency "k1" instead of "r6" : 6 times
+  10. correct head (after the focus word), dependency "k1" instead of "pof" : 5 times
+  11. correct head (after the focus word), dependency "k7p" instead of "k5" : 4 times
+
