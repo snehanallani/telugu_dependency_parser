@@ -1,0 +1,1756 @@
+1	jabbu	jabbu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	rAvaccu	vaccu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_vaccu|tam-a_vaccu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pakRavAwaM	pakRavAwaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	rAvaccu	vaccu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_vaccu|tam-a_vaccu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	meVxadulo	meVxadu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	rakwanAlYAlu	rakwanAlYaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	citluwAyi	citlu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cUpu	cUpu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	masakabAruwuMxi	masakabAruwuMxi	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	wulasini	wulasi	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wIsukuni	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+4	iMtiki	illu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	5	k2	_	_
+5	vaccAdu	vaccu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ippudu	ippudu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	rAmuluku	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	viRayAlu	viRayaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	weVliSAyi	weVluvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wulasiki	wulasi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	weVliSAyi	weVluvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	maMxulu	maMxu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	vAdiwe	vAdiwe	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+3	rakwapotu	rakwapotu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	5	k1	_	_
+4	axupulo	axupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP3|stype-|voicetype-	5	pof	_	_
+5	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	6	ccof	_	_
+6	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-BLK|stype-|voicetype-	7	k2	_	_
+7	weVlusukunnAru	weVlusuko	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	oVkasAri	oVkasAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	rakwapotu	rakwapotu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	parIkRa	parIkRa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	ceyiMcukovAli	ceyiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-koVn_Ali|tam-koVn_Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	elYlu	edu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	xAtAka	xAtu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-ina_Aka|tam-ina_Aka|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	parIkRalu	parIkRa	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	ceyiMcukovAli	ceyiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-koVn_Ali|tam-koVn_Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	baruvu	baruvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	peVragakuMdA	peVrugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-akuMdA|tam-akuMdA|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+3	cUsukovAli	cUsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	maMxulu	maMxu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	mAnakUdaxu	mAnu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_kUdaxu|tam-a_kUdaxu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wiMdilo	wiMdi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k5	_	_
+2	jAgrawwalu	jAgrawwa	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	pAtiMcAli	pAtiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	paMta	paMta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	paSuvulu	paSuvu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__CCP|stype-|voicetype-	5	k2	_	_
+3	kolYlu	kolu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	ccof	_	_
+4	cAlA	cAlA	avy	QF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP3|stype-|voicetype-	5	vmod	_	_
+5	unnAyi	uMdu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	peVlYli	peVlYli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	ayiMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	puruduku	purudu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	rt	_	_
+2	vacciMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rojU	roju	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-0|tam-0_V|chunkId-NP|stype-|voicetype-	3	adv	_	_
+2	bayata	bayata	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	wiragAli	wirugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gAli	gAli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	wIsukovAli	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	aMxuke	aMxuke	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	4	rh	_	_
+2	SAraxa	SAraxa	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	gAliki	gAli	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	wiruguwunnaxi	wirugu	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-wunna_axi|tam-wunna_axi_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	alA	alA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	wiragadaMlo	wiragadaM	n	VM	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-VGNN|stype-|voicetype-	4	k7	_	_
+3	kodini	kodi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	4	k2	_	_
+4	cUsiMxi	cUdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	guddu	guddu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0_mIxa|tam-0|chunkId-NP|stype-|voicetype-	2	k7p	_	_
+2	kUcuni	kUco	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	0	root	_	_
+
+1	rojulu	roju	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	alAge	alAge	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kodi	kodi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	levadaM	le	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-adaM|tam-adaM|chunkId-VGNN|stype-|voicetype-	3	k1	_	_
+3	lexu	gala	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mewaku	mewa	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	rt	_	_
+2	povadaM	po	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-adaM|tam-adaM|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	lexu	gala	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	guddu	guddu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0_lonuMci|tam-0|chunkId-NP2|stype-|voicetype-	4	k5	_	_
+3	pilla	pilla	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	vacciMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	alA	alA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	gudlu	guddu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	pagilAyi	pagulu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pillalu	pilla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	bayataki	bayataki	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	k2p	_	_
+3	vaccAyi	vaccu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kodi	kodi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	vAtini	axi	pn	PRP	cat-pn|gen-fn|num-pl|pers-3|case-|vib-ni|tam-ni|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	reVkkala	reVkka	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-0_kiMxa|tam-ti|chunkId-NP3|stype-|voicetype-	4	k7p	_	_
+4	xAciMxi	xAcu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vAtini	axi	pn	PRP	cat-pn|gen-fn|num-pl|pers-3|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	vaxali	vaxalu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	0	root	_	_
+
+1	pAkalo	pAka	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+2	Avu	Avu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	cUdiwo	cUdi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP3|stype-|voicetype-	4	k4	_	_
+4	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kadupu	kadupu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	Avu	Avu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	IniMxi	Inu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xUda	xUda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	kiMxa	kiMxa	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	padi	padu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+4	leciMxi	lecu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	poVxugu	poVxugu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k5	_	_
+2	pAlu	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wAgiMxi	wAgu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	Avu	Avu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	xUdanu	xUda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	nAkuwoMxi	nAku	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wunn|tam-wunn|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ixaMwA	ixaMwA	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	cUsiMxi	cUdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+3	SAraxa	SAraxa	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	k1	_	_
+
+1	AmeVku	AmeV	pn	PRP	cat-pn|gen-f|num-sg|pers-3|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4a	_	_
+2	saMxehaM	saMxehaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	kaligiMxi	kalugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kodi	kodi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	guddu	guddu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	peVduwuMxi	peVttu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wedA	wedA	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	eVMxuku	eVMxuku	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	rh	_	_
+3	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	nannu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	4	k2	_	_
+2	mA	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	amma	amma	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	kannaxi	kanu	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-ina_axi|tam-ina_axi_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	nA	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	pillanu	pilla	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	kanAli	kanu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMgawulu	saMgawi	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	weVlusukovAli	weVlusuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eVvarini	eVvaru	pn	WQ	cat-pn|gen-fm|num-pl|pers-3|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	adagAli	adagu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	3	ccof	_	_
+3	ani	ani	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	4	k2	_	_
+4	anukuMxi	anuko	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+5	SAraxa	SAraxa	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+
+1	wananu	wAnu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	cUse	cUdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-e|tam-e|chunkId-VGNF|stype-|voicetype-	3	nmod__relc	_	_
+3	dAktarunu	dAktaru	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	adagAli	adagu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	5	ccof	_	_
+5	ani	ani	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	6	k2	_	_
+6	anukoVMxi	anukoVMxi	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+7	SAraxa	SAraxa	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	6	k1	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	dAktaru	dAktaru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	vacciMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	SAraxa	SAraxa	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	adigiMxi	adugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	dAktaru	dAktaru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	vivarAlu	vivaraM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	ceVppiMxi	ceVppu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nuvvu	nIvu	pn	PRP	cat-pn|gen-any|num-sg|pers-2|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	wine	winu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-e|tam-e|chunkId-VGNF|stype-|voicetype-	3	nmod__relc	_	_
+3	AhAraM	AhAraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	7	k1	_	_
+4	nI	nIvu	pn	PRP	cat-pn|gen-any|num-sg|pers-2|case-o|vib-ti|tam-ti|chunkId-NP3|stype-|voicetype-	5	r6	_	_
+5	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP4|stype-|voicetype-	6	nmod	_	_
+6	biddaku	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP5|stype-|voicetype-	7	k4	_	_
+7	aMxuwuMxi	aMxu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	guddulo	guddu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+2	AhAraM	AhAraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	nilava	nilava	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pilla	pilla	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	AhAraM	AhAraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wIsukuMtuMxi	wIsuko	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	waravAwa	waravAwa	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	3	sent-adv	_	_
+2	bayata	bayata	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k7t	_	_
+3	paduwuMxi	padu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kadupuloni	kadupu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-loni|tam-loni|chunkId-NP|stype-|voicetype-	2	nmod	_	_
+2	xUdaku	xUda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	5	k4	_	_
+3	AhAraM	AhAraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+4	Avu	Avu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	5	k5	_	_
+5	aMxuwuMxi	aMxu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rakwaMwo	rakwaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	3	rh	_	_
+2	ixi	ixi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	aMxuwuMxi	aMxu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	Upiri	Upiri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	ilAge	ilAgu	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-e|tam-e_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	aMxuwuMxi	aMxu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xUda	xUda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	eVxigAka	eVxugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-ina_Aka|tam-ina_Aka|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	bayata	bayata	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	pof	_	_
+4	paduwuMxi	padu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	manaM	manaM	pn	PRP	cat-pn|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	alAge	alAge	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	kaMtAM	kaMtAM	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	walli	walli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP3|stype-|voicetype-	4	k7p	_	_
+4	peVruguwuMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlalu	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlalu	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	niMdesariki	niMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-e_sariki|tam-e_sariki|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	avayavAlu	avayavaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	eVxuguwAyi	eVxugu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	piMdaM	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0_cuttU|tam-0|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	ummanIru	ummanIru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ummanIru	ummanIru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	piMdAniki	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4a	_	_
+3	xeVbba	xeVbba	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	pk1	_	_
+4	wagalanivvaxu	wagulu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a_ivvu_a|tam-a_ivvu_a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	jAgrawwagA	jAgrawwa	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	piMdAnni	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	3	k2	_	_
+3	kApAduwuMxi	kApAdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wallini	walli	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	3	ccof	_	_
+2	piMdAnni	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	ccof	_	_
+3	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	4	k2	_	_
+4	kalipexe	kalupu	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi_0|tam-e_axi_0_e|chunkId-VGNF|stype-|voicetype-	5	nmod__relc	_	_
+5	wAdu	wAdu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	6	k1	_	_
+6	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	wAdu	wAdu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	lopali	lopala	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-yoVkka|tam-yoVkka_adv|chunkId-NP2|stype-|voicetype-	3	nmod	_	_
+3	piMdAniki	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	5	k4	_	_
+4	annI	annI	avy	QF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP4|stype-|voicetype-	5	k2	_	_
+5	ceruswuMxi	ceruvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mAya	mAya	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	puttinapudu	puttinapudu	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+4	bayataku	bayataku	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP3|stype-|voicetype-	5	k2p	_	_
+5	vaswuMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlalaku	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	rsp	_	_
+2	piMdaM	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	velaMwa	velaMwa	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP3|stype-|voicetype-	4	k1s	_	_
+4	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	baruvu	baruvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	grAmulu	grAM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1s	_	_
+3	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	avayavAlu	avayavaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	koVMceVM	koVMceVM	n	QF	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	wayAravuwAyi	wayAravvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rakwanAlYAlu	rakwanAlYaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	kanabadawAyi	kanabadu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	uMxani	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A_ani|tam-A_ani|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+4	ippudu	ippudu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k7t	_	_
+5	anipiswuMxi	anipiMcu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	walli	walli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	AhAraM	AhAraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	winAli	winu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pAlu	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	wAgAli	wAgu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	wiruguwU	wirugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-wU|tam-wU|chunkId-VGNF|stype-|voicetype-	0	root	_	_
+
+1	neVla	neVla	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	vaswuMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	baruvu	baruvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	grAmulu	grAM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1s	_	_
+3	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAlYlawo	kAlu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	2	k3	_	_
+2	waMwU	wannu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-wU|tam-wU|chunkId-VGNF|stype-|voicetype-	0	root	_	_
+
+1	curukugA	curuku	adj	RB	cat-adj|gen-|num-|pers-|case-|vib-gA|tam-gA_adj|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	wiruguwU	wirugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-wU|tam-wU|chunkId-VGNF|stype-|voicetype-	0	root	_	_
+
+1	neVla	neVla	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	vaswuMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	iMkA	iMkA	avy	INTF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	adv	_	_
+3	peVruguwuMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kilo	kilo	n	QF	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	baruvu	baruvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1s	_	_
+3	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	2	k7p	_	_
+2	wiruguwU	wirugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-wU|tam-wU|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAlaM	kAlaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	wala	wala	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	muMxu	muMxu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k7p	_	_
+4	uMcuwuMxi	uMcu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	unna	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-ina|tam-ina|chunkId-VGNF|stype-|voicetype-	3	nmod__relc	_	_
+3	saMcini	saMci	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	5	k2	_	_
+4	saMci	saMci	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k2s	_	_
+5	aMtAru	aMtu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMcilone	saMci	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo_e|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	ummanIru	ummanIru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	uMtuMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlalu	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	niMduwAyi	niMdu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMci	saMci	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	godalu	goda	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	kaxuluwAyi	kaxulu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ponu	po	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-a|tam-a|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	godalu	goda	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	noVkkukuMtAyi	noVkkuko	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	walliki	walli	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	noVppulu	noVppi	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	moVxalavuwAyi	moVxalavvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ilA	ilA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	gaMtalu	gaMta	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+3	uMtAyi	uMdu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	oVwwidi	oVwwidi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	ceyadaMwo	ceVyyi	n	VM	cat-n|gen-|num-sg|pers-|case-|vib-adaM_wo|tam-adaM_wo|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+4	ummasaMci	ummasaMci	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+5	ciwiki	ciwuku	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	walupulu	walupu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	wIsinattu	wiyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-ina_atlu|tam-ina_atlu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	noVppulu	noVppi	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	eVkkuva	eVkkuva	adj	VM	cat-adj|gen-|num-|pers-|case-|vib-0|tam-0_adj|chunkId-NP2|stype-|voicetype-	3	adv	_	_
+3	avuwAyi	avvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	bayata	bayata	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	paduwuMxi	padu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	muMxu	muMxu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	wala	wala	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	vaswuMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	dAktaramma	dAktaramma	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	walanu	wala	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	aMxukuMtuMxi	aMxuko	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVmmaxigA	neVmmaxi	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	wIswuMxi	wiyyi	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	veVMtane	veVMtane	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	0	root	_	_
+2	wAdu	wAdu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	koswuMxi	koVyyi	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	6	vmod	_	_
+4	poVttamIxa	poVtta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-mIxa|tam-mIxa|chunkId-NP3|stype-|voicetype-	6	k7p	_	_
+5	macca	macca	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	6	k1	_	_
+6	miguluwuMxi	migulu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF2|stype-|voicetype-	1	ccof	_	_
+
+1	ipudu	ipudu	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	biddaku	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	gAli	gAli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	kAvAli	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	moVxatisArigA	moVxatisArigA	unk	RB	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+3	Upiri	Upiri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	pof	_	_
+4	wIsukuMtuMxi	wIsuko	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	appudappudu	appudappudu	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	biddaku	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	Upiri	Upiri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	aMxaxu	aMxu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	appudu	appudu	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	5	k7t	_	_
+2	dAktaru	dAktaru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	5	k1	_	_
+3	wala	wala	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k2	_	_
+4	kiMxaku	kiMxa	n	NST	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP4|stype-|voicetype-	5	k7p	_	_
+5	veswuMxi	veVyyi	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAlYlanu	kAlu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	pattukoVni	pattuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	vIpu	vIpu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	waduwuMxi	wattu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	oVkkosAri	oVkkosAri	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	wala	wala	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	muMxu	muMxu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k7t	_	_
+4	rAxu	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cewulu	ceyi	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__CCP|stype-|voicetype-	5	k1	_	_
+3	woVdalu	woVda	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	ccof	_	_
+4	muMxu	muMxu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	adv	_	_
+5	vaswAyi	vaccu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	appudu	appudu	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	ApareRan	ApareRan	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	ceyAli	ceVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	alA	alA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	vmod	_	_
+2	cesi	ceVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+3	biddanu	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	5	k2	_	_
+4	bayataku	bayataku	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	5	k7p	_	_
+5	wIyAli	wiyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	oVkkosAri	oVkkosAri	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	kavalalu	kavala	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	pudawAru	puttu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	guddu	guddu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	cIliwe	cIlu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-we|tam-we|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+3	kavalalu	kavala	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	5	k1	_	_
+4	oVke	oVke	avy	JJ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-JJP|stype-|voicetype-	5	k1s	_	_
+5	uMtAru	uMdu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vidigA	vidigA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	piMdaM	piMdaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	ayiwe	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-we|tam-we|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+4	polikalawo	polika	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP2|stype-|voicetype-	5	ras	_	_
+5	pudawAru	puttu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kanuka	kanuka	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	BayaM	BayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	lexu	gala	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	walliki	walli	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__CCP|stype-|voicetype-	5	k4	_	_
+3	pillaku	pilla	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	2	ccof	_	_
+4	bAXa	bAXa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+5	wappaxu	wappu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	puttagAne	puttu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_gAne|tam-a_gAne|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+2	pApa	pApa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	eduswuMxi	eduvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gaxilo	gaxi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	veVluwuru	veVluwuru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	waggiMcAli	waggiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	puttagAne	puttu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_gAne|tam-a_gAne|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+2	walli	walli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	r6	_	_
+3	poVttamIxa	poVtta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-mIxa|tam-mIxa|chunkId-NP2|stype-|voicetype-	4	k7p	_	_
+4	uMcAli	uMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vedinIlYlawo	vedinIlYlawo	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k3	_	_
+2	kadagAli	kadagu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wuMduwo	wuMdu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	2	k3	_	_
+2	wudavAli	wuduvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	walliki	walli	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	xaggaragA	xaggaragA	unk	RB	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	AniMcAli	AniMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bidda	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	iMwaxAka	iMwa	pn	PRP	cat-pn|gen-|num-sg|pers-|case-|vib-xAkA|tam-xAkA|chunkId-NP2|stype-|voicetype-	5	k7t	_	_
+3	guMdeV	guMdeV	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	r6	_	_
+4	cappudu	cappudu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	5	k2	_	_
+5	viniMxi	vinu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlalu	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	viniMxi	vinu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	aMxuke	aMxuke	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	xaggaragA	xaggaragA	unk	RB	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMcAli	uMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	moVxata	moVxata	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	walliki	walli	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	murrupAlu	murrupAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	vaswAyi	vaccu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ivi	ixi	pn	PRP	cat-pn|gen-fn|num-pl|pers-3|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	biddanu	bidda	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	balaMgA	balaMgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	uMcuwAyi	uMcu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rogAlu	rogaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	rAkuMdA	vaccu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-akuMdA|tam-akuMdA|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+3	kApadawAyi	kApadawAyi	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roVmmu	roVmmu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	pof	_	_
+2	pattAli	pattu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	SAraxa	SAraxa	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	aMwA	aMwA	avy	QF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	viMxi	vinu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMgawulu	saMgawi	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	weVlusukuMxi	weVlusuko	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	kUwuru	kUwuru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1s	_	_
+4	caxuvukuMxi	caxuvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-koVn|tam-koVn_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	elYlu	edu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	niMdAyi	niMdu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kUwuriki	kUwuru	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k4	_	_
+2	ceyAli	ceVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	AlociMcAdu	AlociMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	koVdukula	koVduku	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	rt	_	_
+2	veVwikAdu	veVwuku	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	kaMtiki	kannu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	kanipiMcAdu	kanipiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAGavuluku	rAGavuluku	unk	NNP	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	eVvaru	eVvaru	pn	WQ	cat-pn|gen-fm|num-pl|pers-3|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	leru	gala	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	boleVdaMwa	boleVdaMwa	unk	QF	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	saMpAxiMcAdu	saMpAxiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	poVlaM	poVlaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4	_	_
+2	veVnaka	veVnaka	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+3	eVvarU	eVvarU	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	leru	gala	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mAma	mAma	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	cewilo	ceyi	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	peVrigAdu	peVrugu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	caxuvu	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	abbiMxi	abbu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	viRayaM	viRayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	nAyanawo	nAyana	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP2|stype-|voicetype-	3	k4	_	_
+3	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAni	kAni	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	saMpaxa	saMpaxa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	aMtAdu	aMtu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+2	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	1	k1	_	_
+
+1	caxuvu	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	caxuvu	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	weVlivini	weVlivi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	peVMcuwuMxi	peVMcu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	caxuvuwo	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	3	k3	_	_
+2	exEnA	exi	pn	WQ	cat-pn|gen-fn|num-sg|pers-3|case-|vib-Ena|tam-Ena|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	jayiMcagalaM	jayiMcu	v	VM	cat-v|gen-|num-pl|pers-1|case-|vib-a_gala_wA|tam-a_gala_wA|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	7	vmod	_	_
+5	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	7	k1	_	_
+6	nAyanawo	nAyana	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP4|stype-|voicetype-	7	k2	_	_
+7	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	caxuvu	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	erakaMgA	erakaM	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	AxukuMtuMxi	Axuko	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nAku	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k4	_	_
+2	cUpiMcu	cUpiMcu	v	VM	cat-v|gen-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-VGF|stype-|voicetype-	3	ccof	_	_
+3	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	5	vmod	_	_
+4	ramanu	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	5	k2	_	_
+5	adigAdu	adugu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+6	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+
+1	sare	sare	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	2	vmod	_	_
+2	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+3	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	k1	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	ccof	_	_
+3	,	'	sym	SYM	cat-|gen-punc|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	5	k4	_	_
+4	raMgadini	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP3|stype-|voicetype-	3	ccof	_	_
+5	pilipiMcAdu	pilipiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	paMxeVM	paMxeVM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	peVdawAnu	peVttu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	paMxeVMlo	paMxeVM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	2	k7	_	_
+2	geVlicinavAre	geVluvu	pn	VM	cat-pn|gen-|num-pl|pers-|case-|vib-ina_vAru_0|tam-ina_vAru_0_e|chunkId-VGNF|stype-|voicetype-	6	k1	_	_
+3	nAku	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	6	k4	_	_
+4	kAboye	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_po|tam-a_po_e|chunkId-VGNF2|stype-|voicetype-	5	nmod	_	_
+5	moVgudu	moVgudu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	6	k1s	_	_
+6	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	7	ccof	_	_
+7	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-BLK|stype-|voicetype-	8	k2	_	_
+8	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+9	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	8	k1	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	,	'	sym	SYM	cat-|gen-punc|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	7	k1	_	_
+3	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	ccof	_	_
+4	sare	sare	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP3|stype-|voicetype-	5	ccof	_	_
+5	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP2|stype-|voicetype-	7	vmod	_	_
+6	wala	wala	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	7	k2	_	_
+7	UpAru	Upu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eVMxuku	eVMxuku	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	2	rh	_	_
+2	aMte	aMtu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-e|tam-e|chunkId-VGNF|stype-|voicetype-	6	vmod	_	_
+3	ixxarikI	ixxarikI	avy	NN	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	6	k4	_	_
+4	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0_mIxa|tam-0|chunkId-NP3|stype-|voicetype-	6	k2	_	_
+5	manasu	manasu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	6	k1	_	_
+6	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	ceVri	ceVri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	aMxiMciMxi	aMxiMcu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mA	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ti|tam-ti|chunkId-mA|stype-|voicetype-	2	r6	_	_
+2	wAwa	wAwa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	poVrugUrilo	poVrugUru	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP3|stype-|voicetype-	4	k7p	_	_
+4	uMtAdu	uMdu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mUtalanu	mUta	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	4	k2	_	_
+2	mA	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	wAwaku	wAwa	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	4	k4	_	_
+4	aMxiMcAli	aMxiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mUtalawopAtu	mUta	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wopAtu|tam-wopAtu|chunkId-NP|stype-|voicetype-	4	ras	_	_
+2	ceVri	ceVri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	cItI	cIti	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-0|tam-0_V|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	icciMxi	ivvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	Uriki	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	veVlYle	veVlYlu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-e|tam-e|chunkId-VGNF|stype-|voicetype-	3	nmod	_	_
+3	xArilo	xAri	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP2|stype-|voicetype-	5	k7p	_	_
+4	adavi	adavi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+5	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wovalo	wova	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	3	k5	_	_
+2	gudi	gudi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cIkativelYa	cIkativelYa	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	gulYlo	gulYlu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	3	k5	_	_
+3	gadapaMdi	gadapu	v	VM	cat-v|gen-|num-pl|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	6	k2	_	_
+5	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	6	k1	_	_
+6	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	,	'	sym	SYM	cat-|gen-punc|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	5	k1	_	_
+3	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	ccof	_	_
+4	mUtalawo	mUta	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP3|stype-|voicetype-	5	k3	_	_
+5	bayaluxerAru	bayaluxeru	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4	_	_
+2	paMxeVM	paMxeVM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	geVlavAlani	geVlavu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_ani|tam-Ali_ani|chunkId-VGNF|stype-|voicetype-	4	k2	_	_
+4	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	raMgadikI	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki_V|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	paMxeVM	paMxeVM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	geVlavAlani	geVlavu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_ani|tam-Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramanu	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	cesukovAlani	ceVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-koVn_Ali_ani|tam-koVn_Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nadaka	nadaka	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	pof	_	_
+2	sAgiMcAru	sAgiMcu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pagalaMwA	pagalaMwA	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	nadicAru	naduvu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cIkati	cIkati	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	pof	_	_
+2	padiMxi	padu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xArilo	xAri	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	gudi	gudi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	kanapadiMxi	kanapadu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nadici	naduvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+2	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	alasi	alayu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cItilo	cIti	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	emI	emI	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	uMxo	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A_o|chunkId-VGNF|stype-|voicetype-	4	k2	_	_
+4	cUdAlani	cUdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_ani|tam-Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	padukunemuMxu	paduko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-e_muMxu|tam-e_muMxu|chunkId-VGNF|stype-|voicetype-	4	k7t	_	_
+2	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+3	cIti	cIti	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	wIsAdu	wiyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eM	eM	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	rAsi	rAyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+3	uMxo	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A_o|chunkId-VGNF2|stype-|voicetype-	5	k2	_	_
+4	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	5	k4	_	_
+5	adagAlani	adagu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_ani|tam-Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAni	kAni	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	wanaku	wAnu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4	_	_
+3	caxuvu	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	rAxani	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a_ani|tam-a_ani|chunkId-VGNF|stype-|voicetype-	5	k2	_	_
+5	weVlisipowuMxi	weVliyu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-i_po_wU_uMdu|tam-i_po_wU_uMdu_A|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	aMxuke	aMxuke	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	adagalexu	adagu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	ni	ni	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	jebulone	jebu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo_e|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	uMcAdu	uMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	walakiMxa	wala	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-kiMxa|tam-kiMxa|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	uMcukuni	uMcuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+4	nixrapoyAdu	nixrapo	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	koVMwasepatiki	koVMwasepatiki	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	cIti	cIti	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	wISAdu	wiyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gulYlo	gulYlu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	3	k7	_	_
+2	BayaM	BayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	5	vmod	_	_
+5	rAsi	rAyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	nixrapolexu	nixrapo	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pUjAri	pUjAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	iMtiki	illu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	poyAdu	po	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mUtanu	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	xAci	xAcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	3	k2	_	_
+3	adigAdu	adugu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	pUjAri	pUjAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	mUtanu	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	lopala	lopala	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP3|stype-|voicetype-	4	k7p	_	_
+4	xAcAdu	xAcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	waravAwa	waravAwa	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	gudiki	gudi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	cerAdu	ceru	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bAgA	bAgA	avy	INTF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	cIkati	cIkati	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	pof	_	_
+3	padiMxi	padu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xoVMgalu	xoVMga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	vaccAru	vaccu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	walakiMxi	wala	adv	NN	cat-adv|gen-|num-|pers-|case-|vib-kiMxa_yoVkka|tam-kiMxa_yoVkka_adv|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wISAru	wiyyi	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nagalu	naga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	wIsukuni	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+3	pAripoyAru	pAripo	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	powUpowU	po	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-wU_po_wU|tam-wU_po_wU|chunkId-VGNF|stype-|voicetype-	3	k7t	_	_
+2	rAlYlYu	rAlYlYu	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k2	_	_
+3	poguceSAru	poguceVyyi	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	raMgadi	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	mUtalo	mUta	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	3	k5	_	_
+3	uMcAru	uMcu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ixaMwA	ixaMwA	avy	QF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	jariginA	jarugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-inA|tam-inA|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	levalexu	le	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	alasipoyAdu	alayu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xoVMgalu	xoVMga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	mUtakosaM	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-kosaM|tam-kosaM|chunkId-NP3|stype-|voicetype-	4	rt	_	_
+4	cUSAru	cUdu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAni	kAni	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	kanipiMcalexu	kanipiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	xoVMgalu	xoVMga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	raMgadi	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	nagalawo	naga	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP3|stype-|voicetype-	4	ras	_	_
+4	pAripoyAru	pAripo	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	,	'	sym	SYM	cat-|gen-punc|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	4	k1	_	_
+3	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	2	ccof	_	_
+4	lecAru	lecu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	pUjArini	pUjAri	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	kaliSAdu	kaluvu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	wIsukoVni	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	gudiki	gudi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	cerAdu	ceru	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wana	wAnu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	cItIlo	cItIlo	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	4	k7p	_	_
+3	BayaM	BayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	5	ccof	_	_
+5	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	6	k2	_	_
+6	rAsi	rAyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	aMxuke	aMxuke	avy	NN	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	8	rh	_	_
+2	mUtalanu	mUta	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ni|tam-ni|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	pUjAri	pUjAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0_xaggara|tam-0|chunkId-NP3|stype-|voicetype-	4	k7p	_	_
+4	xAcAnu	xAcu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	5	ccof	_	_
+5	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-BLK|stype-|voicetype-	8	k2	_	_
+6	raMgadiwo	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP4|stype-|voicetype-	8	k4	_	_
+7	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP5|stype-|voicetype-	8	k1	_	_
+8	annAdu	anu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	wana	wAnu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	cUSAdu	cUdu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	lopala	lopala	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	rAlYlu	rAdu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	agupiMcAyi	agupiMcu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nagalu	naga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	levu	gala	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	jebulo	jebu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+2	cIti	cIti	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	4	k4	_	_
+4	iccAdu	ivvu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	caxivAdu	caxuvu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	BayaM	BayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	3	ccof	_	_
+3	ane	ane	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	4	k2	_	_
+4	rAsi	rAyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	raMgadu	raMgadu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	cesexi	ceVyyi	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi|tam-e_axi_0|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	Uru	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	cerAdu	ceru	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	mUtanu	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	5	k2	_	_
+3	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	r6	_	_
+4	wAwaku	wAwa	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP4|stype-|voicetype-	5	k4	_	_
+5	aMxiMcAdu	aMxiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	paMxeVM	paMxeVM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	geVlicAdu	geVluvu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wana	wAnu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	caxuve	caxuvu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-0|tam-0_e|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	kApAdiMxi	kApAdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mUtalanu	mUta	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	bArinuMci	bAri	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-niMci|tam-niMci|chunkId-NP2|stype-|voicetype-	3	k5	_	_
+3	kApAdukogaligAdu	kApAdu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-koVn_a_galugu|tam-koVn_a_galugu_A|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	6	k2	_	_
+5	nAyanawo	nAyana	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP3|stype-|voicetype-	6	k4	_	_
+6	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+7	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	6	k1	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	oVppukunnAdu	oVppuko	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMwo	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	4	ras	_	_
+2	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	peVlYli	peVlYli	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	ceSAdu	ceVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	panIpAta	panIpAta	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	lekuMdA	lekuMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i_A|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+4	wirigevAdu	wirigevAdu	n	VM	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pani	pani	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	cUsuko	cUsuko	v	VM	cat-v|gen-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	meM	meM	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	powe	po	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-we|tam-we|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	eVlA	eVlA	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	bawukuwAvu	bawuku	v	VM	cat-v|gen-|num-sg|pers-2|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	maMxaliMcAru	maMxaliMcu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	aligAdu	alugu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roRaM	roRaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	vacciMxi	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pani	pani	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	rt	_	_
+2	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	wirigAdu	wirugu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	civaraku	civaraku	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	4	sent-adv	_	_
+2	cota	cota	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-NP2|stype-|voicetype-	4	k7p	_	_
+3	pani	pani	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	xoVrikiMxi	xoVruku	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	somulu	'	n	NNP	cat-n|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	saMwoRiMcAdu	saMwoRiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nilakada	nilakada	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	kuxiriMxi	kuxuru	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	6	ccof	_	_
+3	ramawo	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP2|stype-|voicetype-	5	ras	_	_
+4	manuvu	manuvu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+5	kuxiriMxi	kuxuru	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	6	ccof	_	_
+6	.	.	punc	SYM	cat-punc|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__CCP|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4a	_	_
+2	pani	pani	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	alavAtu	alavAtu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	ayiMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	saMpAxiMcAdu	saMpAxiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramanu	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	3	ccof	_	_
+2	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	ccof	_	_
+3	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	5	k2	_	_
+4	wamawo	wAmu	pn	PRP	cat-pn|gen-any|num-sg|pers-2|case-|vib-wo|tam-wo|chunkId-NP3|stype-|voicetype-	5	ras-k2	_	_
+5	wIsukupovAlani	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i_po_Ali_ani|tam-i_po_Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	axe	axe	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	adigAdu	adugu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramaku	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4a	_	_
+2	saMwoRaM	saMwoRaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	ayiMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	aMxuke	aMxuke	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	6	rh	_	_
+2	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	6	k1	_	_
+3	meM	meM	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP3|stype-|voicetype-	5	k1	_	_
+4	Uru	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	5	k2	_	_
+5	vaxalaM	vaxalu	v	VM	cat-v|gen-|num-pl|pers-1|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	6	k2	_	_
+6	annAdu	anu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	ramaku	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4a	_	_
+2	bAXagA	bAXa	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ayinA	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-inA|tam-inA|chunkId-VGNF|stype-|voicetype-	3	sent-adv	_	_
+2	emI	emI	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	3	k2	_	_
+3	analexu	anu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cesexi	ceVyyi	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi|tam-e_axi_0|chunkId-VGF|stype-|voicetype-	7	vmod	_	_
+2	yAxagiri	yAxagiri	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	ccof	_	_
+3	sIwAlu	sIwAlu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	ccof	_	_
+4	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	7	k1	_	_
+5	wama	wAmu	pn	PRP	cat-pn|gen-any|num-sg|pers-2|case-o|vib-ti|tam-ti|chunkId-NP3|stype-|voicetype-	6	r6	_	_
+6	Uru	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	7	k2p	_	_
+7	cerAru	ceru	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	rojulu	roju	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	gadipAru	gadupu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramaku	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4a	_	_
+2	hAyigA	hAyigA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	Uru	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2p	_	_
+2	rAvAlani	vaccu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_ani|tam-Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	axe	axi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-|vib-0|tam-0_e|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	gopAlaMwo	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP2|stype-|voicetype-	3	k4	_	_
+3	aMxi	aMxu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	vinalexu	vinu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k7t	_	_
+2	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	5	k4a	_	_
+3	kadupulo	kadupu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP3|stype-|voicetype-	5	k7p	_	_
+4	vikAraMgA	vikAraMgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	5	adv	_	_
+5	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rojula	roju	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	alAge	alAge	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAnurAnU	rAnurAnu	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-V|tam-V_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+2	bAXa	bAXa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ayinA	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-inA|tam-inA|chunkId-VGNF|stype-|voicetype-	3	sent-adv	_	_
+2	nayaM	nayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	pof	_	_
+3	kAlexu	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4a	_	_
+2	rojuku	roju	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	vmod	_	_
+3	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramaku	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4a	_	_
+2	eVtU	eVtU	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	3	adv	_	_
+3	wocadaM	wocu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-adaM|tam-adaM|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4a	_	_
+2	bAXa	bAXa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	pof	_	_
+3	alAge	alAge	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wiMdi	wiMdi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	winevAdu	winu	pn	VM	cat-pn|gen-fm|num-sg|pers-3|case-|vib-e_vAdu|tam-e_vAdu_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wiMte	winu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-we|tam-we|chunkId-VGNF|stype-|voicetype-	2	vmod	_	_
+2	arigexi	arugu	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi|tam-e_axi_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ani	ani	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	3	k1	_	_
+2	anumAnaM	anumAnaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1s	_	_
+3	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	xIpAvalYiki	xIpAvalYi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	rt	_	_
+2	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wIsukupoyAru	wIsuko	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wIsukupoyi	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i_po_i|tam-i_po_i|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+2	exo	exi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-|vib-0|tam-0_o|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	ceSAru	ceVyyi	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vIdiki	vIdu	pn	PRP	cat-pn|gen-m|num-sg|pers-3|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	exo	exi	pn	WQ	cat-pn|gen-fn|num-sg|pers-3|case-|vib-0|tam-0_o|chunkId-RBP|stype-|voicetype-	3	k2	_	_
+3	winipiMcAdu	winipiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	nAyanaku	nAyana	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	kaburu	kaburu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	cesiMxi	ceVyyi	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	yAxagiri	yAxagiri	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	cUSAdu	cUdu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nIrasaMgA	nIrasaM	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	unnAdu	uMdu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mA	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	Uriki	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	k2p	_	_
+3	wIsukupowAnu	wIsuko	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-i_po_wA|tam-i_po_wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xavAKAnAlo	xavAKAnA	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	2	k7p	_	_
+2	cUpeVdawAnu	cUpeVttu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	maMxulu	maMxu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	vAdAli	vAdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ani	ani	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	3	k2	_	_
+2	somuluwo	somulu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	3	k4	_	_
+3	annAdu	anu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	koVduku	koVduku	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	mAku	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	k4	_	_
+3	kAkuMdA	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-akuMdA|tam-akuMdA|chunkId-VGNF|stype-|voicetype-	4	k2	_	_
+4	cUdAlani	cUdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_ani|tam-Ali_ani|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mIre	nIvu	pn	PRP	cat-pn|gen-any|num-pl|pers-2|case-|vib-0|tam-0_e|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	maMxu	maMxu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	winipiMcAru	winipiMcu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ani	ani	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	3	k2	_	_
+2	bAXalo	bAXa	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	3	k7	_	_
+3	annAru	anu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xavAKAnAku	xavAKAnA	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k2p	_	_
+2	wIsukupovAli	wIsuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i_po_Ali|tam-i_po_Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vibUxiki	vibUxi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	rh	_	_
+2	nayaM	nayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	kAxu	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	7	k2	_	_
+5	yAxagiri	yAxagiri	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	7	k1	_	_
+6	eVMwo	eVMwo	avy	INTF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	7	adv	_	_
+7	bawimAlAdu	bawimAlu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	yAxagiri	yAxagiri	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	bawimAlAdu	bawimAlu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mI	mIru	pn	PRP	cat-pn|gen-any|num-pl|pers-2|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	xavAKAnA	xavAKAnA	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	avasaraM	avasaraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	lexu	gala	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mA	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	Uri	Uru	n	NN	cat-n|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	xAsuku	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP3|stype-|voicetype-	4	k4	_	_
+4	cUpeVdawAnu	cUpeVttu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vibUxi	vibUxi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	peVdawAdu	peVttu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	exayinA	exayinA	unk	PRP	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	sokiwe	soku	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-we|tam-we|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+3	woVMxaragA	woVMxaragA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	5	adv	_	_
+4	nayaM	nayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	5	pof	_	_
+5	avuwuMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	maMxu	maMxu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	peVdiwe	peVttu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-we|tam-we|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	veVMtane	veVMtane	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	weVlisipowuMxi	weVliyu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-i_po_wU_uMdu|tam-i_po_wU_uMdu_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mA	memu	pn	PRP	cat-pn|gen-any|num-pl|pers-1|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	xAsuku	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	r6v	_	_
+3	mahima	mahima	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	unnaxi	unna	adj	VM	cat-adj|gen-|num-|pers-|case-|vib-xi|tam-xi_adj|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ani	ani	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	3	k2	_	_
+2	somulu	'	n	NNP	cat-n|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	annAdu	anu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	xAsunu	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	pilipiMcAru	pilipiMcu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	somulu	'	n	NNP	cat-n|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	xAsuku	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	aMwA	aMwA	avy	QF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	weVlipAdu	weVlupu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vAdu	vAdu	v	PRP	cat-v|gen-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	ramanu	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	4	ccof	_	_
+3	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP3|stype-|voicetype-	4	ccof	_	_
+4	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	5	k2	_	_
+5	pilicAdu	piluvu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	muggu	muggu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	veSAdu	veVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	exexo	exu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi_0|tam-e_axi_0_o|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	annAdu	anu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kUcobeVttAdu	kUcobeVttu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	itlA	itlA	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	rojaMwA	rojaMwA	avy	QF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	vmod	_	_
+3	ceSAdu	ceVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramanu	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	5	k4	_	_
+2	mIxi	mIru	pn	PRP	cat-pn|gen-any|num-pl|pers-2|case-o|vib-xi|tam-xi|chunkId-NP2|stype-|voicetype-	3	nmod	_	_
+3	nagalu	naga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	wiyyamani	wiyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_manu_i|tam-a_manu_i|chunkId-VGNF|stype-|voicetype-	5	k2	_	_
+5	annAdu	anu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vAtini	axi	pn	PRP	cat-pn|gen-fn|num-pl|pers-3|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	kattAdu	kattu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	5	vmod	_	_
+4	muggulo	muggu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP3|stype-|voicetype-	5	k7p	_	_
+5	uMcAdu	uMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	iMkA	iMkA	avy	INTF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	caxuvuwunnAdu	caxuvu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wunn|tam-wunn|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaM	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	nIrasapadi	nIrasapadi	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eVvarikI	eVvaru	pn	WQ	cat-pn|gen-fm|num-pl|pers-3|case-|vib-ki|tam-ki_V|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	kaMti	kannu	n	NN	cat-n|gen-|num-sg|pers-|case-o|vib-0_mIxa|tam-ti|chunkId-NP2|stype-|voicetype-	4	k7p	_	_
+3	kunuku	kunuku	v	NN	cat-v|gen-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	AgadaM	Agu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-adaM|tam-adaM|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	aMxuke	aMxuke	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	2	rh	_	_
+2	wUluwunnAru	wUlu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-wunn|tam-wunn|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	paxakoVMdu	paxakoVMdu	n	QC	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	xAtiMxi	xAtu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	5	vmod	_	_
+3	vAdu	vAdu	v	PRP	cat-v|gen-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-NP2|stype-|voicetype-	5	k1	_	_
+4	ika	ika	avy	RP	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	5	adv	_	_
+5	ayipoyiMxi	ayipo	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	powunnAnu	po	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-wunn|tam-wunn|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	mUtanu	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	rojulu	roju	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k7t	_	_
+3	kaxiliMcakUdaxu	kaxiliMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_kUdaxu|tam-a_kUdaxu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	vibUxi	vibUxi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	unnaxi	unna	adj	VM	cat-adj|gen-|num-|pers-|case-|vib-xi|tam-xi_adj|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	axi	axi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	winAli	winu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	waggipowuMxi	waggu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-i_po_wU_uMdu|tam-i_po_wU_uMdu_A|chunkId-VGF|stype-|voicetype-	2	ccof	_	_
+2	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	3	vmod	_	_
+3	veVlYlipoyAdu	veVlYlipo	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	nIrasaM	nIrasaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	waggalexu	waggu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rojuku	roju	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rojulu	roju	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	ayiMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	mUta	mUta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wISAru	wiyyi	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAnI	kAnI	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	rama	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	r6	_	_
+3	nagalu	naga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	kanipiMcalexu	kanipiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	aMxarU	aMxaru	pn	PRP	cat-pn|gen-|num-pl|pers-|case-|vib-0|tam-0_V|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	laboxibomannAru	laboxibomanu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	somulu	'	n	NNP	cat-n|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	xAsu	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	rt	_	_
+3	poyAdu	po	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	uraMwA	uraMwA	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	k7p	_	_
+2	cUSAdu	cUdu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xAsu	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	kanipiMcalexu	kanipiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	illu	illu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	KAlYI	KAlYI	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	ceSAdu	ceVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	5	vmod	_	_
+5	ceVppAru	ceVppu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	somuluku	somulu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	mAta	mAta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	rAlexu	vaccu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	atu	atu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	nagalu	naga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	poyAyi	po	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	itu	itu	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	3	adv	_	_
+2	gopAlaMku	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	k4	_	_
+3	waggalexu	waggu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xAsu	xAsu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	mosaM	mosaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	weVlisiMxi	weVliyu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	somulu	'	n	NNP	cat-n|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	anumAnaM	anumAnaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	wIriMxi	wIru	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ramaku	rama	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	BayaMgA	BayaM	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nAyananu	nAyana	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	pilipiMciMxi	pilipiMcu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	yAxagiri	yAxagiri	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	somulunu	somulu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	samuxAyiMcAdu	samuxAyiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	civaraku	civaraku	avy	NST	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	oVppiMcAdu	oVppiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gopAlaMnu	gopAlaM	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP|stype-|voicetype-	3	k2	_	_
+2	xavAKAnAlo	xavAKAnA	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	cUpeVttAru	cUpeVttu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rogaM	rogaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	muxiriMxi	muxuru	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	iMwaxAkA	iMwa	pn	PRP	cat-pn|gen-|num-sg|pers-|case-|vib-xAkA|tam-xAkA|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	emi	emi	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	ceSAru	ceVyyi	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	SarIraMlo	SarIraM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	balaM	bala	adj	NN	cat-adj|gen-|num-|pers-|case-|vib-xi|tam-xi_adj|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	lekuMdA	lekuMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nammakAlawo	nammakaM	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	2	rh	_	_
+2	kolukokuMdA	koluko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-akuMdA|tam-akuMdA|chunkId-VGF|stype-|voicetype-	3	ccof	_	_
+3	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	5	vmod	_	_
+4	xavAKAnAlo	xavAKAnA	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP2|stype-|voicetype-	5	k7p	_	_
+5	wittAru	wittu	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	somulu	'	n	NNP	cat-n|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	eVMwo	eVMwo	avy	INTF	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	bawimAlAdu	bawimAlu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xavAKAnAlo	xavAKAnA	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	maMxulu	maMxu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	vAdAru	vAdAru	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rojulaku	roju	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	nayaM	nayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	ayiMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xIMwo	xIM	n	PRP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	somuluku	somulu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4	_	_
+3	mosaM	mosaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	weVlisivacciMxi	weVliyu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-i_vaccu|tam-i_vaccu_A|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	pawaMgilo	pawaMgilo	unk	NNP	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+2	nAku	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	xukANaM	xukANaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	meM	meM	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	eVxureVxurugA	eVxureVxuru	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	uMtAM	uMtAM	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAjaliMguku	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k4	_	_
+2	xukANaM	xukANaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	uMxi	uMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nAwo	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	2	ras	_	_
+2	potIpadevAdu	potIpadu	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_vAdu|tam-e_vAdu_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	panilenivArini	panilenivArini	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGNF|stype-|voicetype-	2	k2	_	_
+2	ceraxIsevAdu	ceraxiyyi	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_vAdu|tam-e_vAdu_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nAmIxa	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-|vib-mIxa|tam-mIxa|chunkId-NP|stype-|voicetype-	3	k7	_	_
+2	ixI	ixi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-|vib-0|tam-0_V|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	nUriposevAdu	nUripoVyyi	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_vAdu|tam-e_vAdu_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xukANaMlo	xukANaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+2	sarukulu	saruku	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	maMcivi	maMci	n	JJ	cat-n|gen-|num-sg|pers-|case-|vib-vi|tam-vi|chunkId-JJP|stype-|voicetype-	4	k1s	_	_
+4	.	.	punc	SYM	cat-punc|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	5	ccof	_	_
+5	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	7	vmod	_	_
+6	aMxariwo	aMxaru	pn	PRP	cat-pn|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP3|stype-|voicetype-	7	k2	_	_
+7	anevAdu	anu	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_vAdu|tam-e_vAdu_0|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	sarukulu	saruku	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	koVnadAniki	koVnu	n	VM	cat-n|gen-|num-sg|pers-|case-|vib-adaM_ki|tam-adaM_ki|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	weVlivi	weVlivi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	kAvAli	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ammadAniki	ammu	n	VM	cat-n|gen-|num-sg|pers-|case-|vib-adaM_ki|tam-adaM_ki|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+2	weVlivi	weVlivi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	kAvAli	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xurASa	xurASa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	paniki	pani	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	rAxu	vaccu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	7	k2	_	_
+5	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	7	k1	_	_
+6	rAjaliMguwo	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-wo|tam-wo|chunkId-NP4|stype-|voicetype-	7	k4	_	_
+7	annAnu	anu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	ayinA	ayinA	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	rAjaliMgu	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+3	mAta	mAta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+4	vinalexu	vinu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	rAnurAnU	rAnurAnu	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-V|tam-V_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+2	nA	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-o|vib-0_mIxa|tam-ti|chunkId-NP|stype-|voicetype-	4	k2	_	_
+3	kopaM	kopaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	oVkasAri	oVkasAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	mirapakAyalu	mirapakAya	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	koVnnAnu	koVnu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	kAlaMlo	kAlaM	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	2	k7	_	_
+2	koVnnAnu	koVnu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMculu	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	koVnnAnu	koVnu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eVMdina	eVMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-ina|tam-ina|chunkId-eVMdina|stype-|voicetype-	2	ccof	_	_
+2	waravAwa	waravAwa	adv	NST	cat-adv|gen-|num-|pers-|case-|vib-0|tam-0_adv|chunkId-CCP|stype-|voicetype-	3	vmod	_	_
+3	xAcAnu	xAcu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	edAxi	edAxi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	gaxilo	gaxi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	uMcAnu	uMcu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	edu	edu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	paMtalu	paMta	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	paMdalexu	paMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	paMta	paMta	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	sarigA	sarigA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	rAlexu	vaccu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	anukokuMdA	anuko	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-akuMdA|tam-akuMdA|chunkId-VGNF|stype-|voicetype-	3	vmod	_	_
+2	Xara	Xara	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	koVnnaxAniki	koVnnaxAniki	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGNF|stype-|voicetype-	3	rbmod__relc	_	_
+3	mUdiMwalu	mUdu	n	RB	cat-n|gen-|num-|pers-|case-|vib-iMwa|tam-iMwa|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	peVrigiMxi	peVrugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	nA	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	paxisaMculu	paxisaMculu	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	ammAnu	ammu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	lABaM	lABaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	gadiMcAnu	gadiMcu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ixi	ixi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	nota	nota	avy	NN	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	k7p	_	_
+3	pAkiMxi	pAku	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAjaliMguku	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k4	_	_
+2	weVlisiMxi	weVliyu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	weVlivigA	weVlivi	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	2	adv	_	_
+2	saMpAxiMcAli	saMpAxiMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saruku	saruku	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	koVni	koVnu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	4	vmod	_	_
+3	nilava	nilava	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	pof	_	_
+4	uMcAli	uMcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	edu	edu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7t	_	_
+2	ammAli	ammu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	3	ccof	_	_
+3	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	4	vmod	_	_
+4	anukunnAdu	anuko	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	saMculu	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	KarIxu	KarIxu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	ceSAdu	ceVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	iMtiki	illu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	ceraveSAdu	ceraveVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	uppu	uppu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	xAcAli	xAcu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+3	sarEna	sarEna	n	JJ	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-JJP|stype-|voicetype-	4	nmod	_	_
+4	jAgA	jAgA	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	5	k2	_	_
+5	kAvAli	avvu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gaxilo	gaxi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	saMculu	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	uMcAdu	uMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wAlYaM	wAlYaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	veSAdu	veVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlalu	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	gadicAyi	gaduvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAjaliMgu	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	oVkasAri	oVkasAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k7t	_	_
+3	wAlYaM	wAlYaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	wIsicUSAdu	wiyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-i_cUdu|tam-i_cUdu_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMculu	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	3	adv	_	_
+3	wadisipoyAyi	wadiyu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMculu	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	pAdayinavi	pAdavvu	pn	VM	cat-pn|gen-|num-pl|pers-|case-|vib-ina_axi|tam-ina_axi_0|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	uppu	uppu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	karigipoyiMxi	karugu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	edu	edu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+3	vAnalu	vAna	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	kuriSAyi	kuriSAyi	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	aMxuke	aMxuke	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	0	root	_	_
+2	gaxilo	gaxi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+3	wadi	wadi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+4	ceriMxi	ceru	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	1	ccof	_	_
+
+1	saMculu	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	wadisipoyAyi	wadiyu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAjaliMgu	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	laboxibomannAdu	laboxibomanu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cesexi	ceVyyi	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi|tam-e_axi_0|chunkId-VGF|stype-|voicetype-	3	vmod	_	_
+2	migiliMxi	migulu	v	NN	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-NP|stype-|voicetype-	3	k2	_	_
+3	ammAdu	ammu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	edu	edu	n	QC	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	nenu	nenu	pn	PRP	cat-pn|gen-any|num-sg|pers-1|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	pasupu	pasupu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	koVnnAnu	koVnu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMcula	saMcu	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	nmod	_	_
+2	pasupuni	pasupu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-ni|tam-ni|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	neVlalu	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k7t	_	_
+4	uMcAnu	uMcu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	neVlala	neVla	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-0_waruvAwa|tam-ti|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	Xara	Xara	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	pof	_	_
+3	palikiMxi	paluku	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	lABaM	lABaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k2	_	_
+2	cekUriMxi	cekUru	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	saMwoRaM	saMwoRaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	pof	_	_
+2	ayiMxi	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pEsalawo	pEsa	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP|stype-|voicetype-	4	k3	_	_
+2	iMtAmeVku	iMtAmeVku	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	4	k4	_	_
+3	nagalu	naga	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	ceyiMcAnu	ceyiMcu	v	VM	cat-v|gen-|num-sg|pers-1|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	viRayaM	viRayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	rAjaliMguku	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	3	k4	_	_
+3	weVlisiMxi	weVliyu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAjaliMguku	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	4	k4	_	_
+2	kaMtimIxa	kannu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-mIxa|tam-mIxa|chunkId-NP2|stype-|voicetype-	4	k7	_	_
+3	kunuku	kunuku	v	NN	cat-v|gen-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	lexu	gala	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAjaliMgu	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	5	k1	_	_
+2	sAri	sAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k7t	_	_
+3	ullipAyalu	ullipAya	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	koVni	koVnu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-i|tam-i|chunkId-VGNF|stype-|voicetype-	5	vmod	_	_
+5	xAcAdu	xAcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ullipAyalu	ullipAya	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	murigipoyAyi	murugu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eVMdalaku	eVMda	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	rh	_	_
+2	ullipAyalu	ullipAya	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	pAdayipoyAyi	pAdavvu	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-i_po|tam-i_po_A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	cesexi	ceVyyi	pn	VM	cat-pn|gen-|num-sg|pers-|case-|vib-e_axi|tam-e_axi_0|chunkId-VGF|stype-|voicetype-	3	vmod	_	_
+2	ullipAyalu	ullipAya	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k2	_	_
+3	pAraveSAdu	pAraveVyyi	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	gaxi	gaxi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k7p	_	_
+2	kadigiMcAdu	kadigiMcu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	wotivAdu	wodu	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-vAdu|tam-vAdu|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	woVda	woVda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	kosukuMte	koVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-koVn_we|tam-koVn_we|chunkId-VGNF|stype-|voicetype-	6	vmod	_	_
+4	wAnu	wAnu	pn	PRP	cat-pn|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	6	k1	_	_
+5	meVda	meVda	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	6	k2	_	_
+6	kosukune	koVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-koVn|tam-koVn_e|chunkId-VGNF2|stype-|voicetype-	7	nmod	_	_
+7	rakaM	rakaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP5|stype-|voicetype-	8	nmod	_	_
+8	rAjaliMguxi	rAjaliMgu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-xi|tam-xi|chunkId-NP6|stype-|voicetype-	9	k1s	_	_
+9	ani	ani	avy	UT	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	11	k2	_	_
+10	aMxarU	aMxaru	pn	PRP	cat-pn|gen-|num-pl|pers-|case-|vib-0|tam-0_V|chunkId-NP7|stype-|voicetype-	11	k1	_	_
+11	anukunnAru	anuko	v	VM	cat-v|gen-|num-pl|pers-3|case-|vib-A|tam-A|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ippudu	ippudu	n	NST	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k7t	_	_
+2	oVkati	oVkati	n	QC	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1s	_	_
+3	pAdixi	pAdi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-xi|tam-xi|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	oVkati	oVkati	n	QC	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1s	_	_
+2	cUdixi	cUdi	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-xi|tam-xi|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	rAmulu	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	pAlu	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	wAne	wAne	unk	PRP	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP3|stype-|voicetype-	1	nmod	_	_
+4	piwukuwAdu	piwuku	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	gexeVlanu	gexeV	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ni|tam-ni|chunkId-NP|stype-|voicetype-	2	k4	_	_
+2	mepuwAdu	mepu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ayinA	ayinA	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	3	sent-adv	_	_
+2	pAdi	pAdi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	peVragalexu	peVrugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	roju	roju	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	nmod	_	_
+2	uxayaM	uxayaM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k7t	_	_
+3	eVMdugaddi	eVMdugaddi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	peVdawAdu	peVttu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	oVkasAri	oVkasAri	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	kudiwi	kudiwi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	peVdawAdu	peVttu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	iMkosAri	iMkosAri	avy	NN	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP|stype-|voicetype-	3	k7t	_	_
+2	paccimewa	paccimewa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	peVdawAdu	peVttu	v	VM	cat-v|gen-m|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ayinA	ayinA	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-CCP|stype-|voicetype-	3	sent-adv	_	_
+2	pAlu	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+3	peVragalexu	peVrugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	rAmuluku	rAmulu	n	NNP	cat-n|gen-|num-sg|pers-|case-|vib-ki|tam-ki|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	eM	eM	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	wocalexu	wocu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_lexu|tam-a_lexu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	eVMdugaddi	eVMdugaddi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	maMci	maMci	adj	JJ	cat-adj|gen-|num-sg|pers-|case-o|vib-0|tam-0_adj|chunkId-JJP|stype-|voicetype-	3	nmod	_	_
+3	AhAraM	AhAraM	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k1s	_	_
+4	kAxu	avvu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-a|tam-a|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	axi	axi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	3	k1	_	_
+2	kadupu	kadupu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	niMduwuMxi	niMdu	v	VM	cat-v|gen-fn|num-sg|pers-3|case-|vib-wA|tam-wA|chunkId-VGF|stype-|voicetype-	4	ccof	_	_
+4	kAnI	kAnI	avy	CC	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-CCP|stype-|voicetype-	0	root	_	_
+5	aMxulo	aMxulo	avy	PRP	cat-avy|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP3|stype-|voicetype-	7	k5	_	_
+6	poRakaviluvalu	poRakaviluva	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	7	k2	_	_
+7	levu	gala	v	VM	cat-v|gen-n|num-pl|pers-3|case-|vib-a|tam-a|chunkId-VGF2|stype-|voicetype-	4	ccof	_	_
+
+1	xAnilo	axi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	4	k5	_	_
+2	pAla	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	r6	_	_
+3	xigubadi	xigubadi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	guNaMlexu	guNaMlexu	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pAlu	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	k1	_	_
+2	peVragAlaMte	peVrugu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali_aMte|tam-Ali_aMte|chunkId-VGF|stype-|voicetype-	7	rh	_	_
+3	pAdi	pAdi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	nmod	_	_
+4	paSuvula	paSuvu	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP3|stype-|voicetype-	5	r6	_	_
+5	mewa	mewa	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP4|stype-|voicetype-	7	k1	_	_
+6	mowAxulo	mowAxu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP5|stype-|voicetype-	7	adv	_	_
+7	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF2|stype-|voicetype-	0	root	_	_
+
+1	mewalo	mewa	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	4	k5	_	_
+2	rakAla	rakaM	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP2|stype-|voicetype-	3	nmod	_	_
+3	poRakAlu	poRaka	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k2	_	_
+4	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	Kanija	KanijaM	n	NN	cat-n|gen-|num-sg|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	lavaNAlu	lavaNaM	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	2	ccof	_	_
+4	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pAlu	pAlu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	xANA	xANA	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	2	ccof	_	_
+4	peVttAli	peVttu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	ixe	ixi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-|vib-0|tam-0_e|chunkId-NP|stype-|voicetype-	3	k1s	_	_
+2	PIdu	PIdu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	NULL	NULL	unk	VM	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NULL__VGF|stype-|voicetype-	0	root	_	_
+
+1	xANAlo	xANA	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-0|tam-0_o|chunkId-NP|stype-|voicetype-	4	k7p	_	_
+2	xinusulu	xinusu	n	NN	cat-n|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	bAgA	bAgA	avy	RB	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	xAnilo	axi	pn	PRP	cat-pn|gen-fn|num-sg|pers-3|case-|vib-lo|tam-lo|chunkId-NP|stype-|voicetype-	3	k7p	_	_
+2	moVkkajoVnna	moVkkajoVnna	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k2	_	_
+3	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pawwiceVkka	pawwiceVkka	unk	NN	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|stype-|voicetype-	2	ccof	_	_
+2	NULL	NULL	unk	CC	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	nuvvuceVkka	nuvvuceVkka	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	2	ccof	_	_
+4	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pappula	pappu	n	NN	cat-n|gen-|num-pl|pers-|case-o|vib-ti|tam-ti|chunkId-NP|stype-|voicetype-	2	r6	_	_
+2	poVdi	poVdi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	nmod	_	_
+3	wavudu	wavudu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	k1	_	_
+4	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	goXuma	goXuma	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	nmod	_	_
+2	wavudu	wavudu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP2|stype-|voicetype-	3	k1	_	_
+3	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	PIdu	PIdu	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	4	k1	_	_
+2	eVlA	eVlA	avy	WQ	cat-avy|gen-|num-|pers-|case-|vib-0|tam-0_avy|chunkId-NP2|stype-|voicetype-	4	k2	_	_
+3	wayAru	wayAru	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP3|stype-|voicetype-	4	pof	_	_
+4	ceyAli	ceVyyi	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGNF|stype-|voicetype-	7	rh	_	_
+5	xANAnu	xANA	n	NN	cat-n|gen-|num-sg|pers-|case-|vib-nu|tam-nu|chunkId-NP4|stype-|voicetype-	7	k2	_	_
+6	koVlawalawo	koVlawa	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-wo|tam-wo|chunkId-NP5|stype-|voicetype-	7	adv	_	_
+7	peVttAli	peVttu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	anni	anni	pn	QF	cat-pn|gen-|num-pl|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	nmod	_	_
+2	paSuvulaku	paSuvu	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	4	k1	_	_
+3	oVkelAgA	oVkelAgA	unk	RB	cat-unk|gen-|num-|pers-|case-|vib-|tam-|chunkId-RBP|stype-|voicetype-	4	adv	_	_
+4	uMdakUdaxu	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-a_kUdaxu|tam-a_kUdaxu|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
+1	pAdi	pAdi	n	NN	cat-n|gen-|num-sg|pers-|case-d|vib-0|tam-0|chunkId-NP|stype-|voicetype-	2	nmod	_	_
+2	gexeVlaku	gexeV	n	NN	cat-n|gen-|num-pl|pers-|case-|vib-ki|tam-ki|chunkId-NP2|stype-|voicetype-	5	k1	_	_
+3	oVka	oVka	adj	JJ	cat-adj|gen-|num-|pers-|case-|vib-0|tam-0_adj|chunkId-JJP|stype-|voicetype-	4	rbmod	_	_
+4	rakaMgA	rakaM	n	RB	cat-n|gen-|num-sg|pers-|case-|vib-gA|tam-gA|chunkId-RBP|stype-|voicetype-	5	adv	_	_
+5	uMdAli	uMdu	v	VM	cat-v|gen-any|num-any|pers-any|case-|vib-Ali|tam-Ali|chunkId-VGF|stype-|voicetype-	0	root	_	_
+
